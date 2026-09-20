@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19T20:36:37.518Z",
+  "generatedAt": "2026-09-20T20:46:42.732Z",
   "note": "Instagram/Threads public no-login candidates without reliable engagement metrics. Not merged into ranking data.",
   "instagram": [],
   "threads": [
@@ -36,44 +36,50 @@
     },
     {
       "acct": "orion_on82",
-      "id": "DdeSUrbkrP3",
-      "link": "https://www.threads.com/@orion_on82/post/DdeSUrbkrP3",
+      "id": "Ddg0KRokljO",
+      "link": "https://www.threads.com/@orion_on82/post/Ddg0KRokljO",
       "reason": "public-page-without-views"
     },
     {
       "acct": "orion_on82",
-      "id": "DdeSbJaEpAa",
-      "link": "https://www.threads.com/@orion_on82/post/DdeSbJaEpAa",
+      "id": "Ddg0QQVEjce",
+      "link": "https://www.threads.com/@orion_on82/post/Ddg0QQVEjce",
       "reason": "public-page-without-views"
     },
     {
       "acct": "orion_on82",
-      "id": "DddyPvYkTmP",
-      "link": "https://www.threads.com/@orion_on82/post/DddyPvYkTmP",
+      "id": "DdgTkVGEb6a",
+      "link": "https://www.threads.com/@orion_on82/post/DdgTkVGEb6a",
       "reason": "public-page-without-views"
     },
     {
       "acct": "orion_on82",
-      "id": "DddyTFNkWfB",
-      "link": "https://www.threads.com/@orion_on82/post/DddyTFNkWfB",
+      "id": "DdgTpElEcGI",
+      "link": "https://www.threads.com/@orion_on82/post/DdgTpElEcGI",
       "reason": "public-page-without-views"
     },
     {
       "acct": "orion_on82",
-      "id": "DddN_j4ERF6",
-      "link": "https://www.threads.com/@orion_on82/post/DddN_j4ERF6",
+      "id": "DdgAGEmEf7n",
+      "link": "https://www.threads.com/@orion_on82/post/DdgAGEmEf7n",
       "reason": "public-page-without-views"
     },
     {
       "acct": "orion_on82",
-      "id": "Ddcu7BEknms",
-      "link": "https://www.threads.com/@orion_on82/post/Ddcu7BEknms",
+      "id": "DdgANNIEfRy",
+      "link": "https://www.threads.com/@orion_on82/post/DdgANNIEfRy",
       "reason": "public-page-without-views"
     },
     {
       "acct": "orion_on82",
-      "id": "DdcvAC4kps6",
-      "link": "https://www.threads.com/@orion_on82/post/DdcvAC4kps6",
+      "id": "Ddf5vTkEQox",
+      "link": "https://www.threads.com/@orion_on82/post/Ddf5vTkEQox",
+      "reason": "public-page-without-views"
+    },
+    {
+      "acct": "orion_on82",
+      "id": "Ddf51iokcPC",
+      "link": "https://www.threads.com/@orion_on82/post/Ddf51iokcPC",
       "reason": "public-page-without-views"
     },
     {
