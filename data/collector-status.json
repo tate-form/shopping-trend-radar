@@ -1,10 +1,10 @@
 {
   "ok": true,
   "mode": "direct-no-login",
-  "startedAt": "2026-10-28T22:31:02.013Z",
+  "startedAt": "2026-10-29T22:42:15.942Z",
   "source": "youtube public no-login plus optional instagram/threads public-data providers with traffic-quality gates",
   "before": {
-    "youtube": 2226,
+    "youtube": 2215,
     "threads": 215,
     "instagram": 1317
   },
@@ -15,20 +15,20 @@
     "minMultiplier": 2
   },
   "pruned": {
-    "youtube": 11,
+    "youtube": 9,
     "instagram": 0,
     "threads": 0
   },
   "youtube": {
     "queries": [
       {
-        "query": "다이소 추천 쇼츠",
+        "query": "살림템 추천 쇼츠",
         "found": 12,
         "channels": 12,
         "mode": "search-channel-rss"
       },
       {
-        "query": "살림템 추천 쇼츠",
+        "query": "다이소 추천 쇼츠",
         "found": 12,
         "channels": 12,
         "mode": "search-channel-rss"
@@ -94,13 +94,13 @@
         "mode": "search-channel-rss"
       },
       {
-        "query": "생활 꿀템 쇼츠",
+        "query": "쿠팡 추천템 쇼츠",
         "found": 12,
         "channels": 12,
         "mode": "search-channel-rss"
       },
       {
-        "query": "쿠팡 추천템 쇼츠",
+        "query": "생활 꿀템 쇼츠",
         "found": 12,
         "channels": 12,
         "mode": "search-channel-rss"
@@ -154,76 +154,15 @@
         "mode": "search-channel-rss"
       }
     ],
-    "rejected": [
-      {
-        "rejected": true,
-        "id": "EbhUGnBMw6s",
-        "title": "손만 대면 거품이 쏙! 🫧 자동 거품 손세정제 #쇼츠 #생활꿀템",
-        "ch": "오늘은 뭐사지",
-        "views": 285,
-        "up": "2026-10-22",
-        "reason": "views<30000,daily<10000;fresh-views<1000,fresh-daily<300",
-        "dailyViews": 41,
-        "sourceQuery": "간식 추천 쇼츠",
-        "metricSource": "youtube-rss-feed",
-        "sourceChannelId": "UCQpyus1m4_hqci-NriCuLAQ",
-        "sourceChannel": "오늘은 뭐사지",
-        "evidence": "youtube-search-channel-rss-upload-date-rss-view-count-shorts-url"
-      },
-      {
-        "rejected": true,
-        "id": "y0JkJKgaqQc",
-        "title": "손만 대면 거품이 쏙! 🫧 자동 거품 손세정제 #쇼츠 #생활꿀템",
-        "ch": "오늘은 뭐사지",
-        "views": 18,
-        "up": "2026-10-21",
-        "reason": "views<30000,daily<10000;fresh-views<1000,fresh-daily<300",
-        "dailyViews": 2,
-        "sourceQuery": "간식 추천 쇼츠",
-        "metricSource": "youtube-rss-feed",
-        "sourceChannelId": "UCQpyus1m4_hqci-NriCuLAQ",
-        "sourceChannel": "오늘은 뭐사지",
-        "evidence": "youtube-search-channel-rss-upload-date-rss-view-count-shorts-url"
-      },
-      {
-        "rejected": true,
-        "id": "ybdxnxpUF9M",
-        "title": "다이소 포토로 내새꾸 핸드크림 만들기",
-        "ch": "미아 Mia",
-        "views": 7725,
-        "up": "2026-09-15",
-        "reason": "views<30000,daily<10000;fresh-old>10d,fresh-daily<300",
-        "dailyViews": 176,
-        "sourceQuery": "뷰티템 추천 쇼츠",
-        "metricSource": "youtube-rss-feed",
-        "sourceChannelId": "UCB0iI4S727iXExTQvEVG4UQ",
-        "sourceChannel": "미아 Mia",
-        "evidence": "youtube-search-channel-rss-upload-date-rss-view-count-shorts-url"
-      }
-    ],
+    "rejected": [],
     "errors": [],
     "rss": {
       "channelsFound": 80,
-      "feedsChecked": 6,
+      "feedsChecked": 0,
       "feedErrors": [
         {
-          "channel": "온라인프리덤 Online freedom",
-          "channelId": "UCKikOnRUZTPyTSHqZ3gPLiw",
-          "message": "HTTP 404"
-        },
-        {
-          "channel": "굥아님의 리뷰세상",
-          "channelId": "UC9FNiG45LYQPBKn3cukVGvA",
-          "message": "HTTP 404"
-        },
-        {
-          "channel": "다이소",
-          "channelId": "UChz7dY8O1jTD8bXGJ8JgXEA",
-          "message": "HTTP 404"
-        },
-        {
-          "channel": "냠냠",
-          "channelId": "UCZdZD_q4xh-8gKgWX949Yvg",
+          "channel": "꼰대킹이써봤다",
+          "channelId": "UC5_3C62lQzUxJmGN_5kM-1g",
           "message": "HTTP 404"
         },
         {
@@ -237,18 +176,8 @@
           "message": "HTTP 404"
         },
         {
-          "channel": "[viewpang]뷰팡",
-          "channelId": "UCC7PT5gHRWgEjym1b0j7xag",
-          "message": "HTTP 500"
-        },
-        {
           "channel": "치촌•_•𝑐ℎ𝑖𝑐ℎ𝑜𝑛",
           "channelId": "UCW1nPuAH27Afidxhei3hT0A",
-          "message": "HTTP 404"
-        },
-        {
-          "channel": "간편살림",
-          "channelId": "UCsZAqUO4rHfRmQqNfEJyTxw",
           "message": "HTTP 404"
         },
         {
@@ -257,23 +186,78 @@
           "message": "HTTP 404"
         },
         {
-          "channel": "꼰대킹이써봤다",
-          "channelId": "UC5_3C62lQzUxJmGN_5kM-1g",
+          "channel": "간편살림",
+          "channelId": "UCsZAqUO4rHfRmQqNfEJyTxw",
           "message": "HTTP 404"
         },
         {
-          "channel": "우리동네사장",
-          "channelId": "UCN5PvV8tCLgZFwKTeod1VAw",
+          "channel": "예비신부cook",
+          "channelId": "UCK7M3CQZZJXhOGgwrql6aIQ",
           "message": "HTTP 404"
         },
         {
-          "channel": "유교수의 AI 캠퍼스",
-          "channelId": "UCs8s8XqVIvUAhBW6P9qTyPw",
+          "channel": "[viewpang]뷰팡",
+          "channelId": "UCC7PT5gHRWgEjym1b0j7xag",
           "message": "HTTP 404"
         },
         {
-          "channel": "부업하는부부",
-          "channelId": "UCssMAfwEpQF0GZ8V0a57vuQ",
+          "channel": "온라인프리덤 Online freedom",
+          "channelId": "UCKikOnRUZTPyTSHqZ3gPLiw",
+          "message": "HTTP 404"
+        },
+        {
+          "channel": "라쥬 Lajuu 단정한 살림",
+          "channelId": "UCwDXpUH2Zg4vsqBn30n7lLw",
+          "message": "HTTP 500"
+        },
+        {
+          "channel": "안나tv",
+          "channelId": "UC-LzD5KMP21ncWDrKYX_sVQ",
+          "message": "HTTP 404"
+        },
+        {
+          "channel": "박정희의 우아한 라이프(pjh_elegantlife)",
+          "channelId": "UClP-mrecWpQ3LyITzzVt7Mw",
+          "message": "HTTP 500"
+        },
+        {
+          "channel": "살림역",
+          "channelId": "UCjXPWDQKPdMLd6r9ouFobCA",
+          "message": "HTTP 404"
+        },
+        {
+          "channel": "냠냠",
+          "channelId": "UCZdZD_q4xh-8gKgWX949Yvg",
+          "message": "HTTP 404"
+        },
+        {
+          "channel": "살림콕콕 salrim_kk",
+          "channelId": "UCgftv02Zczi4x3mS7xKOXUQ",
+          "message": "HTTP 404"
+        },
+        {
+          "channel": "깨알팁스",
+          "channelId": "UCFjpxV8DFbHyDyL5mojKR8w",
+          "message": "HTTP 404"
+        },
+        {
+          "channel": "살림남매",
+          "channelId": "UCI3bXUVuHXHMAiurKj3Wm9A",
+          "message": "HTTP 404"
+        },
+        {
+          "channel": "소비일상 ",
+          "channelId": "UCU3Sj3qF4E2dseN--gWXw3g",
+          "message": "HTTP 404"
+        },
+        {
+          "channel": "김켈리 Kellyfornia",
+          "channelId": "UCmjjgsm51PYMPf5REDylbSA",
+          "message": "HTTP 404"
+        },
+        {
+          "channel": "유생역전",
+          "channelId": "UCeIwoUIrkt7A066mpEpe6yg",
           "message": "HTTP 404"
         },
         {
@@ -282,8 +266,13 @@
           "message": "HTTP 404"
         },
         {
-          "channel": "찬란한하루샵",
-          "channelId": "UCfpRm3FW8YYCexJUlPGHM_g",
+          "channel": "남기범",
+          "channelId": "UC57vGiFQAZ4R99SOhh9weGQ",
+          "message": "HTTP 404"
+        },
+        {
+          "channel": "쇼핑OK",
+          "channelId": "UCma-S-Gt9RLXZp6bAI4DX0Q",
           "message": "HTTP 404"
         },
         {
@@ -292,28 +281,53 @@
           "message": "HTTP 404"
         },
         {
+          "channel": "부업하는부부",
+          "channelId": "UCssMAfwEpQF0GZ8V0a57vuQ",
+          "message": "HTTP 404"
+        },
+        {
           "channel": "뉴머니",
           "channelId": "UCLOsPoIK68KqJAjCtpP1i_w",
+          "message": "HTTP 404"
+        },
+        {
+          "channel": "찬란한하루샵",
+          "channelId": "UCfpRm3FW8YYCexJUlPGHM_g",
+          "message": "HTTP 404"
+        },
+        {
+          "channel": "고려대학교 TV방송국 KTN",
+          "channelId": "UCorQ2_2ylADiF5IvTt1r6Ng",
+          "message": "HTTP 404"
+        },
+        {
+          "channel": "정ok [ Life ]",
+          "channelId": "UC0eKsLOCcCdHPfMvFuftGMw",
+          "message": "HTTP 404"
+        },
+        {
+          "channel": "우리동네사장",
+          "channelId": "UCN5PvV8tCLgZFwKTeod1VAw",
           "message": "HTTP 500"
         },
         {
           "channel": "바이올렛정",
           "channelId": "UCwmxjcCq75_f0L6qsX4HoyA",
-          "message": "HTTP 404"
-        },
-        {
-          "channel": "시루고",
-          "channelId": "UCQ75GOS2di3wEkboyNics6A",
           "message": "HTTP 500"
         },
         {
           "channel": "맛킴",
           "channelId": "UC7svIcWF4i1gvayNpMjuH7Q",
-          "message": "HTTP 500"
+          "message": "HTTP 404"
         },
         {
           "channel": "Muncora Mukbang",
           "channelId": "UCSfdrsPDD2TkjrK2hhrEWtQ",
+          "message": "HTTP 404"
+        },
+        {
+          "channel": "gustavm",
+          "channelId": "UCED79thiLyIhi7hNPpPmzag",
           "message": "HTTP 404"
         },
         {
@@ -322,29 +336,24 @@
           "message": "HTTP 500"
         },
         {
-          "channel": "shortslian 쇼츠리안 ",
-          "channelId": "UCK9HiOCkrjdPHYoos4QvtDg",
-          "message": "HTTP 404"
-        },
-        {
           "channel": "황금이삭 ",
           "channelId": "UCmDij2F9UF5lYVnNbbvODyA",
           "message": "HTTP 404"
         },
         {
+          "channel": "shortslian 쇼츠리안 ",
+          "channelId": "UCK9HiOCkrjdPHYoos4QvtDg",
+          "message": "HTTP 404"
+        },
+        {
+          "channel": "TOP5 만 모았다",
+          "channelId": "UC4wWQBkXlDCb69YCXTIUmhQ",
+          "message": "HTTP 404"
+        },
+        {
           "channel": "숨빛재",
           "channelId": "UCoFMuCxCrEO1-3lQ-5XEnCQ",
-          "message": "HTTP 404"
-        },
-        {
-          "channel": "순천만가든마켓",
-          "channelId": "UCN4tMNx_yC624TimYwRw7LA",
-          "message": "HTTP 404"
-        },
-        {
-          "channel": "SH tv_서울주택도시개발공사",
-          "channelId": "UCD_GS8VmhbRvNrCn3plPX9A",
-          "message": "HTTP 404"
+          "message": "HTTP 500"
         },
         {
           "channel": "대수로운삶",
@@ -352,8 +361,8 @@
           "message": "HTTP 404"
         },
         {
-          "channel": "STEEL CINEMA",
-          "channelId": "UC_9EDuocDEzqZx2CzXMYKsQ",
+          "channel": "이거 누가 만들었지?",
+          "channelId": "UCx14s2XFxwKILgaI49oEdNw",
           "message": "HTTP 404"
         },
         {
@@ -362,14 +371,14 @@
           "message": "HTTP 404"
         },
         {
-          "channel": "이거 누가 만들었지?",
-          "channelId": "UCx14s2XFxwKILgaI49oEdNw",
-          "message": "HTTP 500"
+          "channel": "욤이네 살림",
+          "channelId": "UCzWAIUe-GdkbNlgBioEDbYQ",
+          "message": "HTTP 404"
         },
         {
-          "channel": "임쁨임",
-          "channelId": "UCSMXHb6eaO1kuURCBAzRO0g",
-          "message": "HTTP 404"
+          "channel": "순천만가든마켓",
+          "channelId": "UCN4tMNx_yC624TimYwRw7LA",
+          "message": "HTTP 500"
         },
         {
           "channel": "Marketing CMAGLOBAL",
@@ -377,28 +386,18 @@
           "message": "HTTP 404"
         },
         {
-          "channel": "욤이네 살림",
-          "channelId": "UCzWAIUe-GdkbNlgBioEDbYQ",
+          "channel": "빈하루 binharu",
+          "channelId": "UCwCzC71wXg9_d3TCCpkuBRg",
           "message": "HTTP 404"
         },
         {
-          "channel": "인테리어티쳐",
-          "channelId": "UCUQyARrCsguWU7gYfG6arFQ",
+          "channel": "봄로은",
+          "channelId": "UCWFDueWinMjdB6sDvRpH-RQ",
           "message": "HTTP 404"
         },
         {
-          "channel": "GIRI CRAFT SPECIAL PAINTING ",
-          "channelId": "UC9pBl0CFOEjmMvefhf1NcUw",
-          "message": "HTTP 500"
-        },
-        {
-          "channel": "건강지킴이",
-          "channelId": "UCmtJ3ua4R-xzuMmEKMN4rDg",
-          "message": "HTTP 404"
-        },
-        {
-          "channel": "양파까기 한 끼 cook ",
-          "channelId": "UCzQAylxHu2vTvF_E3pPWabw",
+          "channel": "COSMOSU",
+          "channelId": "UCWoqMu6XxTHg6vbgXDKG-BA",
           "message": "HTTP 404"
         },
         {
@@ -407,8 +406,18 @@
           "message": "HTTP 404"
         },
         {
-          "channel": "감자처럼 생긴  레베카 (레베카가만든)",
-          "channelId": "UCTfReVaICakWRJuiti5q1wg",
+          "channel": "헤이즐로드",
+          "channelId": "UCjqAtHjfqy2k_cy9mJNCGDw",
+          "message": "HTTP 404"
+        },
+        {
+          "channel": "디자인용테리어",
+          "channelId": "UCTzn6LZrPaiA81ZAog_-DZA",
+          "message": "HTTP 500"
+        },
+        {
+          "channel": "쩡유 JJeong U",
+          "channelId": "UCQ0mSWo_PxYUsxX6jKxuDsg",
           "message": "HTTP 404"
         },
         {
@@ -417,13 +426,13 @@
           "message": "HTTP 404"
         },
         {
-          "channel": "막순이네TV",
-          "channelId": "UCERkswYMa0_pueiguReXpEg",
+          "channel": "양파까기 한 끼 cook ",
+          "channelId": "UCzQAylxHu2vTvF_E3pPWabw",
           "message": "HTTP 404"
         },
         {
-          "channel": "티파니",
-          "channelId": "UCQ4LPiRfS0aFlSmvlVhNdYA",
+          "channel": "오늘은 뭐사지",
+          "channelId": "UCQpyus1m4_hqci-NriCuLAQ",
           "message": "HTTP 404"
         },
         {
@@ -432,23 +441,13 @@
           "message": "HTTP 404"
         },
         {
-          "channel": "민새롬의 오픈스튜디오",
-          "channelId": "UCI0ELrUDa91NauGqFn1IWow",
+          "channel": "감자처럼 생긴  레베카 (레베카가만든)",
+          "channelId": "UCTfReVaICakWRJuiti5q1wg",
           "message": "HTTP 404"
         },
         {
-          "channel": "Orchid Purple",
-          "channelId": "UCtV6JDVs9ghAPktRhxnCL0g",
-          "message": "HTTP 500"
-        },
-        {
-          "channel": "MINDELI민델리",
-          "channelId": "UCNcstCjc7E85wttJMn7OD9Q",
-          "message": "HTTP 404"
-        },
-        {
-          "channel": "천비누솝",
-          "channelId": "UCBFWxgrL9BppcLdpogGFWaQ",
+          "channel": "티파니",
+          "channelId": "UCQ4LPiRfS0aFlSmvlVhNdYA",
           "message": "HTTP 404"
         },
         {
@@ -457,28 +456,28 @@
           "message": "HTTP 404"
         },
         {
-          "channel": "제이세바",
-          "channelId": "UCGADAaqQ2tALS7D3-IkvcxQ",
-          "message": "HTTP 500"
-        },
-        {
-          "channel": "애봉이마켓",
-          "channelId": "UCoL_8PahEt5vJHH8Ttg2Jlw",
-          "message": "HTTP 500"
-        },
-        {
-          "channel": "윤쨔미 YoonCharmi",
-          "channelId": "UCQtPAu0FjPbA1ku3cA5R2mg",
+          "channel": "민새롬의 오픈스튜디오",
+          "channelId": "UCI0ELrUDa91NauGqFn1IWow",
           "message": "HTTP 404"
         },
         {
-          "channel": "Emma Ahn",
-          "channelId": "UCIod-bISMPG9mVYNwZ8pvnQ",
+          "channel": "MINDELI민델리",
+          "channelId": "UCNcstCjc7E85wttJMn7OD9Q",
+          "message": "HTTP 500"
+        },
+        {
+          "channel": "휴먼인사이드",
+          "channelId": "UCIz_-1evnd2n-fJYQt6PcPw",
           "message": "HTTP 404"
         },
         {
-          "channel": "제이미포유 Jaymeeforyou",
-          "channelId": "UClJNgnMWzvEzJuLcpH7m4vQ",
+          "channel": "박환희",
+          "channelId": "UC07PMfvy6KydBobPxL2TGpw",
+          "message": "HTTP 404"
+        },
+        {
+          "channel": "천비누솝",
+          "channelId": "UCBFWxgrL9BppcLdpogGFWaQ",
           "message": "HTTP 500"
         },
         {
@@ -487,13 +486,28 @@
           "message": "HTTP 404"
         },
         {
-          "channel": "김지유 JIYU KIM",
-          "channelId": "UC3EnbFx6mBs2QPJ_BYqQm6g",
+          "channel": "미아 Mia",
+          "channelId": "UCB0iI4S727iXExTQvEVG4UQ",
+          "message": "HTTP 500"
+        },
+        {
+          "channel": "Emma Ahn",
+          "channelId": "UCIod-bISMPG9mVYNwZ8pvnQ",
           "message": "HTTP 404"
         },
         {
-          "channel": "유리아YuRia",
-          "channelId": "UC00DJ04oplqj4IUUB5vSwZw",
+          "channel": "윤쨔미 YoonCharmi",
+          "channelId": "UCQtPAu0FjPbA1ku3cA5R2mg",
+          "message": "HTTP 500"
+        },
+        {
+          "channel": "제이미포유 Jaymeeforyou",
+          "channelId": "UClJNgnMWzvEzJuLcpH7m4vQ",
+          "message": "HTTP 404"
+        },
+        {
+          "channel": "김지유 JIYU KIM",
+          "channelId": "UC3EnbFx6mBs2QPJ_BYqQm6g",
           "message": "HTTP 404"
         },
         {
@@ -502,18 +516,18 @@
           "message": "HTTP 404"
         },
         {
-          "channel": "제이블릿 Jblit",
-          "channelId": "UCyTOyXG9CB4tMe6FIVlfsUg",
-          "message": "HTTP 500"
-        },
-        {
           "channel": "하율(河律)스토리",
           "channelId": "UCQDLz2wW8b74R2InSIzV12g",
-          "message": "HTTP 500"
+          "message": "HTTP 404"
         },
         {
-          "channel": "이해 eehae",
-          "channelId": "UCemggr8M-2b2_mwCvg3owSQ",
+          "channel": "유리아YuRia",
+          "channelId": "UC00DJ04oplqj4IUUB5vSwZw",
+          "message": "HTTP 404"
+        },
+        {
+          "channel": "제이블릿 Jblit",
+          "channelId": "UCyTOyXG9CB4tMe6FIVlfsUg",
           "message": "HTTP 404"
         },
         {
@@ -522,18 +536,18 @@
           "message": "HTTP 404"
         },
         {
-          "channel": "불꽃리뷰",
-          "channelId": "UC-7E5TSQd24BTAD9rRx6g-w",
+          "channel": "민제 meenje",
+          "channelId": "UClsaLJyAdDlXjyAizmKt-1Q",
+          "message": "HTTP 404"
+        },
+        {
+          "channel": "이해 eehae",
+          "channelId": "UCemggr8M-2b2_mwCvg3owSQ",
           "message": "HTTP 500"
         },
         {
-          "channel": "onde온드",
-          "channelId": "UClAWUThX9ZzVi0v3kZiDqfg",
-          "message": "HTTP 500"
-        },
-        {
-          "channel": "지원로그 jiwonlog",
-          "channelId": "UCQurgaNqT_F7MoaiMvWeHaA",
+          "channel": "니들needle",
+          "channelId": "UCHlpg27bXgmU_lfDd7hHxyA",
           "message": "HTTP 404"
         },
         {
@@ -542,148 +556,21 @@
           "message": "HTTP 404"
         },
         {
-          "channel": "초딩손맛",
-          "channelId": "UCIqsPbpyJWwEddWVfdpJneQ",
+          "channel": "러브솔",
+          "channelId": "UCy3Dp6QP6bQiB7dwsBZEgwQ",
           "message": "HTTP 404"
-        },
-        {
-          "channel": "맹글여사",
-          "channelId": "UCz9gu0-MtM2oH1vbRTHrnvQ",
-          "message": "HTTP 404"
-        },
-        {
-          "channel": "옹달샘지렁",
-          "channelId": "UCcJzah7punwRCXpj-QSPxWw",
-          "message": "HTTP 500"
-        },
-        {
-          "channel": "일상의 편린:: piece of daily",
-          "channelId": "UCzhT1oPI5EfRrqKllMaF1DA",
-          "message": "HTTP 404"
-        },
-        {
-          "channel": "크커커",
-          "channelId": "UCf2Z5LxpHj4B2U1NUJ4Caaw",
-          "message": "HTTP 500"
-        },
-        {
-          "channel": "앤의노트 annsnote",
-          "channelId": "UChYrLiFqMHZaNVISaeH3uUA",
-          "message": "HTTP 500"
-        },
-        {
-          "channel": "멜리 룸 Melly room",
-          "channelId": "UCW1fEjQxaxOC0LbDE96A_TQ",
-          "message": "HTTP 500"
         }
       ],
-      "recentCandidates": 7,
-      "detailChecked": 1,
-      "detailErrorCount": 10,
-      "detailErrors": [
-        {
-          "id": "wRp69HI_2vg",
-          "source": "https://inv.thepixora.com",
-          "message": "Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
-        },
-        {
-          "id": "DBm-BNcuZu0",
-          "source": "https://inv.thepixora.com",
-          "message": "Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
-        },
-        {
-          "id": "XC_Hxb3wSkc",
-          "source": "https://inv.thepixora.com",
-          "message": "Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
-        },
-        {
-          "id": "mmOiNuNjEAM",
-          "source": "https://inv.thepixora.com",
-          "message": "Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
-        },
-        {
-          "id": "XC_Hxb3wSkc",
-          "source": "https://yt.chocolatemoo53.com",
-          "message": "HTTP 500"
-        },
-        {
-          "id": "mmOiNuNjEAM",
-          "source": "https://yt.chocolatemoo53.com",
-          "message": "HTTP 500"
-        },
-        {
-          "id": "mmOiNuNjEAM",
-          "source": "yt-dlp-video-detail",
-          "message": "ERROR: [youtube] mmOiNuNjEAM: Sign in to confirm you’re not a bot. This helps protect our community. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
-        },
-        {
-          "id": "XC_Hxb3wSkc",
-          "source": "yt-dlp-video-detail",
-          "message": "ERROR: [youtube] XC_Hxb3wSkc: Sign in to confirm your age. This video may be inappropriate for some users. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
-        },
-        {
-          "id": "DBm-BNcuZu0",
-          "source": "https://yt.chocolatemoo53.com",
-          "message": "This operation was aborted"
-        },
-        {
-          "id": "DBm-BNcuZu0",
-          "source": "yt-dlp-video-detail",
-          "message": "ERROR: [youtube] DBm-BNcuZu0: Sign in to confirm you’re not a bot. This helps protect our community. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
-        }
-      ],
-      "rssFallbackChecked": 3,
+      "recentCandidates": 0,
+      "detailChecked": 0,
+      "detailErrorCount": 0,
+      "detailErrors": [],
+      "rssFallbackChecked": 0,
       "rssFallbackAccepted": 0,
       "accepted": 0,
       "trendAccepted": 0,
       "freshAccepted": 0,
-      "rejected": [
-        {
-          "rejected": true,
-          "id": "EbhUGnBMw6s",
-          "title": "손만 대면 거품이 쏙! 🫧 자동 거품 손세정제 #쇼츠 #생활꿀템",
-          "ch": "오늘은 뭐사지",
-          "views": 285,
-          "up": "2026-10-22",
-          "reason": "views<30000,daily<10000;fresh-views<1000,fresh-daily<300",
-          "dailyViews": 41,
-          "sourceQuery": "간식 추천 쇼츠",
-          "metricSource": "youtube-rss-feed",
-          "sourceChannelId": "UCQpyus1m4_hqci-NriCuLAQ",
-          "sourceChannel": "오늘은 뭐사지",
-          "evidence": "youtube-search-channel-rss-upload-date-rss-view-count-shorts-url"
-        },
-        {
-          "rejected": true,
-          "id": "y0JkJKgaqQc",
-          "title": "손만 대면 거품이 쏙! 🫧 자동 거품 손세정제 #쇼츠 #생활꿀템",
-          "ch": "오늘은 뭐사지",
-          "views": 18,
-          "up": "2026-10-21",
-          "reason": "views<30000,daily<10000;fresh-views<1000,fresh-daily<300",
-          "dailyViews": 2,
-          "sourceQuery": "간식 추천 쇼츠",
-          "metricSource": "youtube-rss-feed",
-          "sourceChannelId": "UCQpyus1m4_hqci-NriCuLAQ",
-          "sourceChannel": "오늘은 뭐사지",
-          "evidence": "youtube-search-channel-rss-upload-date-rss-view-count-shorts-url"
-        },
-        {
-          "rejected": true,
-          "id": "ybdxnxpUF9M",
-          "title": "다이소 포토로 내새꾸 핸드크림 만들기",
-          "ch": "미아 Mia",
-          "views": 7725,
-          "up": "2026-09-15",
-          "reason": "views<30000,daily<10000;fresh-old>10d,fresh-daily<300",
-          "dailyViews": 176,
-          "sourceQuery": "뷰티템 추천 쇼츠",
-          "metricSource": "youtube-rss-feed",
-          "sourceChannelId": "UCB0iI4S727iXExTQvEVG4UQ",
-          "sourceChannel": "미아 Mia",
-          "evidence": "youtube-search-channel-rss-upload-date-rss-view-count-shorts-url"
-        }
-      ]
+      "rejected": []
     }
   },
   "instagram": {
@@ -749,7 +636,7 @@
     "accounts": [
       {
         "acct": "maxi_more__",
-        "found": 6
+        "found": 5
       },
       {
         "acct": "orion_on82",
@@ -811,6 +698,12 @@
       },
       {
         "acct": "maxi_more__",
+        "id": "DfErotfjgfD",
+        "link": "https://www.threads.com/@maxi_more__/post/DfErotfjgfD",
+        "reason": "public-page-without-views"
+      },
+      {
+        "acct": "maxi_more__",
         "id": "DfCO7QoDj9r",
         "link": "https://www.threads.com/@maxi_more__/post/DfCO7QoDj9r",
         "reason": "public-page-without-views"
@@ -822,63 +715,51 @@
         "reason": "public-page-without-views"
       },
       {
-        "acct": "maxi_more__",
-        "id": "De8xfqtk3Hv",
-        "link": "https://www.threads.com/@maxi_more__/post/De8xfqtk3Hv",
-        "reason": "public-page-without-views"
-      },
-      {
-        "acct": "maxi_more__",
-        "id": "De8xijLE0Vt",
-        "link": "https://www.threads.com/@maxi_more__/post/De8xijLE0Vt",
+        "acct": "orion_on82",
+        "id": "DfF97gDE7mJ",
+        "link": "https://www.threads.com/@orion_on82/post/DfF97gDE7mJ",
         "reason": "public-page-without-views"
       },
       {
         "acct": "orion_on82",
-        "id": "DfCgGjsEixN",
-        "link": "https://www.threads.com/@orion_on82/post/DfCgGjsEixN",
+        "id": "DfF-GVBE1KK",
+        "link": "https://www.threads.com/@orion_on82/post/DfF-GVBE1KK",
         "reason": "public-page-without-views"
       },
       {
         "acct": "orion_on82",
-        "id": "DfCgK2KkifF",
-        "link": "https://www.threads.com/@orion_on82/post/DfCgK2KkifF",
+        "id": "DfFDpygErhn",
+        "link": "https://www.threads.com/@orion_on82/post/DfFDpygErhn",
         "reason": "public-page-without-views"
       },
       {
         "acct": "orion_on82",
-        "id": "DfCE4NekfCo",
-        "link": "https://www.threads.com/@orion_on82/post/DfCE4NekfCo",
+        "id": "DfFDvRhEl0S",
+        "link": "https://www.threads.com/@orion_on82/post/DfFDvRhEl0S",
         "reason": "public-page-without-views"
       },
       {
         "acct": "orion_on82",
-        "id": "DfCFAJ8ERGN",
-        "link": "https://www.threads.com/@orion_on82/post/DfCFAJ8ERGN",
+        "id": "DfEu0riEpsE",
+        "link": "https://www.threads.com/@orion_on82/post/DfEu0riEpsE",
         "reason": "public-page-without-views"
       },
       {
         "acct": "orion_on82",
-        "id": "DfByRyNkanE",
-        "link": "https://www.threads.com/@orion_on82/post/DfByRyNkanE",
+        "id": "DfEu5yIkps4",
+        "link": "https://www.threads.com/@orion_on82/post/DfEu5yIkps4",
         "reason": "public-page-without-views"
       },
       {
         "acct": "orion_on82",
-        "id": "DfByVghkX_b",
-        "link": "https://www.threads.com/@orion_on82/post/DfByVghkX_b",
+        "id": "DfEe6XTEQME",
+        "link": "https://www.threads.com/@orion_on82/post/DfEe6XTEQME",
         "reason": "public-page-without-views"
       },
       {
         "acct": "orion_on82",
-        "id": "DfBYbQlEsJ1",
-        "link": "https://www.threads.com/@orion_on82/post/DfBYbQlEsJ1",
-        "reason": "public-page-without-views"
-      },
-      {
-        "acct": "orion_on82",
-        "id": "DfBYiVkkm-x",
-        "link": "https://www.threads.com/@orion_on82/post/DfBYiVkkm-x",
+        "id": "DfEfAe2kePv",
+        "link": "https://www.threads.com/@orion_on82/post/DfEfAe2kePv",
         "reason": "public-page-without-views"
       },
       {
@@ -1219,16 +1100,16 @@
       "reason": "missing THREADS_DATA_API_KEY or endpoint"
     }
   },
-  "finishedAt": "2026-10-28T22:31:26.764Z",
+  "finishedAt": "2026-10-29T22:42:32.548Z",
   "added": {
     "youtube": 0,
     "instagram": 0,
     "threads": 0
   },
   "metricSnapshots": {
-    "sampledAt": "2026-10-28T22:31:26.286Z",
+    "sampledAt": "2026-10-29T22:42:32.064Z",
     "tracked": {
-      "youtube": 2215,
+      "youtube": 2206,
       "instagram": 1317,
       "threads": 215
     },
@@ -1238,9 +1119,9 @@
       "threads": 0
     }
   },
-  "version": "2026-10-28T22:31:26.764Z:a567aeb5eb7b",
+  "version": "2026-10-29T22:42:32.548Z:15a89ba83421",
   "after": {
-    "youtube": 2215,
+    "youtube": 2206,
     "threads": 215,
     "instagram": 1317
   }
