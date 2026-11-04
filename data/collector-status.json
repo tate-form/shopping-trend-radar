@@ -1,10 +1,10 @@
 {
   "ok": true,
   "mode": "direct-no-login",
-  "startedAt": "2026-11-03T23:16:46.264Z",
+  "startedAt": "2026-11-04T23:37:28.372Z",
   "source": "youtube public no-login plus optional instagram/threads public-data providers with traffic-quality gates",
   "before": {
-    "youtube": 2220,
+    "youtube": 2212,
     "threads": 215,
     "instagram": 1317
   },
@@ -15,14 +15,14 @@
     "minMultiplier": 2
   },
   "pruned": {
-    "youtube": 8,
+    "youtube": 9,
     "instagram": 0,
     "threads": 0
   },
   "youtube": {
     "queries": [
       {
-        "query": "한국 쇼츠 쇼핑 추천",
+        "query": "살림템 추천 쇼츠",
         "found": 12,
         "channels": 11,
         "mode": "search-channel-rss"
@@ -34,25 +34,25 @@
         "mode": "search-channel-rss"
       },
       {
-        "query": "살림템 추천 쇼츠",
+        "query": "한국 쇼츠 쇼핑 추천",
         "found": 12,
         "channels": 11,
         "mode": "search-channel-rss"
       },
       {
-        "query": "먹거리 추천 쇼츠",
-        "found": 12,
-        "channels": 11,
-        "mode": "search-channel-rss"
-      },
-      {
-        "query": "간식 추천 쇼츠",
+        "query": "인테리어 소품 추천 쇼츠",
         "found": 12,
         "channels": 12,
         "mode": "search-channel-rss"
       },
       {
-        "query": "인테리어 소품 추천 쇼츠",
+        "query": "먹거리 추천 쇼츠",
+        "found": 12,
+        "channels": 12,
+        "mode": "search-channel-rss"
+      },
+      {
+        "query": "간식 추천 쇼츠",
         "found": 12,
         "channels": 12,
         "mode": "search-channel-rss"
@@ -158,56 +158,61 @@
     "errors": [],
     "rss": {
       "channelsFound": 80,
-      "feedsChecked": 2,
+      "feedsChecked": 1,
       "feedErrors": [
         {
-          "channel": "Kshop Korea",
-          "channelId": "UCdURyoNw78M0vJmPa7e4x6g",
+          "channel": "두배로꿀팁",
+          "channelId": "UCod3ACfa8UqqTuE10-MRnDA",
           "message": "HTTP 404"
         },
         {
-          "channel": "부업뚝딱",
-          "channelId": "UCK6AYYdEWuoqkmO_3FGWExQ",
+          "channel": "소문난홈",
+          "channelId": "UCXp1RmvMYbzH1j1pn8HfMZw",
           "message": "HTTP 404"
         },
         {
-          "channel": "지혜놀이",
-          "channelId": "UCN4PSAU5WD3x-wDNJJJnrYw",
+          "channel": "득템상회",
+          "channelId": "UC4ZeOQgnXOzctbLZE4gW5fg",
+          "message": "HTTP 404"
+        },
+        {
+          "channel": "오오",
+          "channelId": "UCEPv0TEpA07kc8p8voLksCg",
+          "message": "HTTP 404"
+        },
+        {
+          "channel": "치촌•_•𝑐ℎ𝑖𝑐ℎ𝑜𝑛",
+          "channelId": "UCW1nPuAH27Afidxhei3hT0A",
+          "message": "HTTP 404"
+        },
+        {
+          "channel": "꼼수살림",
+          "channelId": "UCj3LfARKs2hmDuIHhPYIO2A",
+          "message": "HTTP 404"
+        },
+        {
+          "channel": "밤바밍 BOMBOMING",
+          "channelId": "UCRkh-gDGB3rLoKPB5upIMKA",
           "message": "HTTP 500"
         },
         {
-          "channel": "쇼핑OK",
-          "channelId": "UCma-S-Gt9RLXZp6bAI4DX0Q",
-          "message": "HTTP 404"
-        },
-        {
-          "channel": "UhBee - PE : YouTube",
-          "channelId": "UC_iVluVTBSlRpr4wtyVdhEQ",
-          "message": "HTTP 404"
-        },
-        {
-          "channel": "유생역전",
-          "channelId": "UCeIwoUIrkt7A066mpEpe6yg",
-          "message": "HTTP 404"
-        },
-        {
-          "channel": "뉴머니",
-          "channelId": "UCLOsPoIK68KqJAjCtpP1i_w",
-          "message": "HTTP 404"
-        },
-        {
-          "channel": "원초적 인사이트 : 쇼츠로 파이프라인 만들기",
-          "channelId": "UCHZ45eAueN5zkGUYIrWL94w",
-          "message": "HTTP 404"
-        },
-        {
-          "channel": "유알남 - AI유튜브 알려주는 남자",
-          "channelId": "UCbr9JI1IIqlm6wU4AkOoslQ",
+          "channel": "랄라의살림기록",
+          "channelId": "UC1LWbxc3tNlZvtN7Rz5ag0Q",
           "message": "HTTP 500"
         },
         {
-          "channel": "성공지식백과",
-          "channelId": "UC-SyuGFlZXpGdR7WszgYBhw",
+          "channel": "잡인사이드 job inside",
+          "channelId": "UCxKLNBYfPhj27SxjhEs9qow",
+          "message": "HTTP 404"
+        },
+        {
+          "channel": "온라인프리덤 Online freedom",
+          "channelId": "UCKikOnRUZTPyTSHqZ3gPLiw",
+          "message": "HTTP 404"
+        },
+        {
+          "channel": "냠냠",
+          "channelId": "UCZdZD_q4xh-8gKgWX949Yvg",
           "message": "HTTP 404"
         },
         {
@@ -216,13 +221,13 @@
           "message": "HTTP 404"
         },
         {
-          "channel": "우리동네사장",
-          "channelId": "UCN5PvV8tCLgZFwKTeod1VAw",
+          "channel": "부업뚝딱",
+          "channelId": "UCK6AYYdEWuoqkmO_3FGWExQ",
           "message": "HTTP 404"
         },
         {
-          "channel": "온라인프리덤 Online freedom",
-          "channelId": "UCKikOnRUZTPyTSHqZ3gPLiw",
+          "channel": "돈버는 온라인자판기",
+          "channelId": "UCJ8Vr4j-hNx6BT1FC_F1keQ",
           "message": "HTTP 404"
         },
         {
@@ -241,63 +246,123 @@
           "message": "HTTP 404"
         },
         {
-          "channel": "김켈리 Kellyfornia",
-          "channelId": "UCmjjgsm51PYMPf5REDylbSA",
-          "message": "HTTP 404"
-        },
-        {
-          "channel": "두배로꿀팁",
-          "channelId": "UCod3ACfa8UqqTuE10-MRnDA",
-          "message": "HTTP 404"
-        },
-        {
-          "channel": "소문난홈",
-          "channelId": "UCXp1RmvMYbzH1j1pn8HfMZw",
-          "message": "HTTP 404"
-        },
-        {
-          "channel": "윤요기 YUNYOGI",
-          "channelId": "UCpH1qewd1Lo2gzFSHCKWzCw",
-          "message": "HTTP 404"
-        },
-        {
-          "channel": "득템상회",
-          "channelId": "UC4ZeOQgnXOzctbLZE4gW5fg",
-          "message": "HTTP 404"
-        },
-        {
-          "channel": "밤바밍 BOMBOMING",
-          "channelId": "UCRkh-gDGB3rLoKPB5upIMKA",
-          "message": "HTTP 404"
-        },
-        {
-          "channel": "꼼수살림",
-          "channelId": "UCj3LfARKs2hmDuIHhPYIO2A",
+          "channel": "리뷰팁",
+          "channelId": "UClPRQStnS8ENoiWrF-yADWw",
           "message": "HTTP 500"
         },
         {
-          "channel": "치촌•_•𝑐ℎ𝑖𝑐ℎ𝑜𝑛",
-          "channelId": "UCW1nPuAH27Afidxhei3hT0A",
+          "channel": "성공지식백과",
+          "channelId": "UC-SyuGFlZXpGdR7WszgYBhw",
           "message": "HTTP 404"
         },
         {
-          "channel": "박정희의 우아한 라이프(pjh_elegantlife)",
-          "channelId": "UClP-mrecWpQ3LyITzzVt7Mw",
+          "channel": "Kshop Korea",
+          "channelId": "UCdURyoNw78M0vJmPa7e4x6g",
+          "message": "HTTP 404"
+        },
+        {
+          "channel": "지혜놀이",
+          "channelId": "UCN4PSAU5WD3x-wDNJJJnrYw",
+          "message": "HTTP 500"
+        },
+        {
+          "channel": "유알남 - AI유튜브 알려주는 남자",
+          "channelId": "UCbr9JI1IIqlm6wU4AkOoslQ",
+          "message": "HTTP 404"
+        },
+        {
+          "channel": "테라아이",
+          "channelId": "UCr7wynB9MPehAC3I3BnEtWQ",
+          "message": "HTTP 404"
+        },
+        {
+          "channel": "쇼핑신세계",
+          "channelId": "UClRPgPoU1oVOrtFPB2Ar4DA",
+          "message": "HTTP 404"
+        },
+        {
+          "channel": "코리아풀KOREAFUL",
+          "channelId": "UCM8fQ6AkXGFOIWiBmsqToAA",
+          "message": "HTTP 404"
+        },
+        {
+          "channel": "중국사입 스월백",
+          "channelId": "UCgR-jSNZobWWB6pV1FQhLXg",
+          "message": "HTTP 404"
+        },
+        {
+          "channel": "유생역전",
+          "channelId": "UCeIwoUIrkt7A066mpEpe6yg",
+          "message": "HTTP 404"
+        },
+        {
+          "channel": "cocojuan코코쥬안",
+          "channelId": "UCLQopdoEULJMt_IaE6thhtA",
+          "message": "HTTP 404"
+        },
+        {
+          "channel": "빈스-빈티지 홈스타일링",
+          "channelId": "UCNPvGO-ILUtHTqC2kkaXrGw",
+          "message": "HTTP 404"
+        },
+        {
+          "channel": "이거 누가 만들었지?",
+          "channelId": "UCx14s2XFxwKILgaI49oEdNw",
+          "message": "HTTP 404"
+        },
+        {
+          "channel": "에쉴리가구",
+          "channelId": "UCgfEP6eRzFd6ae3sVL84Blw",
+          "message": "HTTP 404"
+        },
+        {
+          "channel": "임쁨임",
+          "channelId": "UCSMXHb6eaO1kuURCBAzRO0g",
+          "message": "HTTP 404"
+        },
+        {
+          "channel": "꼬모가든",
+          "channelId": "UCA25kuPXz8uxX1vOBXAddcA",
+          "message": "HTTP 404"
+        },
+        {
+          "channel": "우리동네단골가게TV",
+          "channelId": "UC2ZcQ-XHobjEiexhNcF5DHg",
+          "message": "HTTP 404"
+        },
+        {
+          "channel": "miss mone미스모네",
+          "channelId": "UCWSJuwm-vOJkLamhDfbVNTQ",
+          "message": "HTTP 404"
+        },
+        {
+          "channel": "오빠쇼핑",
+          "channelId": "UC6fo3RmHxKvifkE68GIOYoQ",
+          "message": "HTTP 404"
+        },
+        {
+          "channel": "미코노까사 ㅣ 일상에 산뜻함을 더하는 오브제",
+          "channelId": "UCmY23jqTtmErqJ8Z8EGe_yw",
+          "message": "HTTP 404"
+        },
+        {
+          "channel": "물빛디자인실",
+          "channelId": "UCGux0e9ygTSm8peCDnhJqZg",
+          "message": "HTTP 404"
+        },
+        {
+          "channel": "마르타의 카페 Martha's cafe",
+          "channelId": "UClZ3BZp0zNqaFxnZk9ZF75A",
+          "message": "HTTP 404"
+        },
+        {
+          "channel": "미냉이네 집",
+          "channelId": "UC1F4KYrzcw0yCW9r9qfhLxQ",
           "message": "HTTP 500"
         },
         {
           "channel": "바이올렛정",
           "channelId": "UCwmxjcCq75_f0L6qsX4HoyA",
-          "message": "HTTP 404"
-        },
-        {
-          "channel": "전국부업자랑",
-          "channelId": "UCeiF1YLabeX9mAuOc_qhm8Q",
-          "message": "HTTP 404"
-        },
-        {
-          "channel": "랄라의살림기록",
-          "channelId": "UC1LWbxc3tNlZvtN7Rz5ag0Q",
           "message": "HTTP 404"
         },
         {
@@ -311,13 +376,13 @@
           "message": "HTTP 404"
         },
         {
-          "channel": "하율(河律)스토리",
-          "channelId": "UCQDLz2wW8b74R2InSIzV12g",
+          "channel": "gustavm",
+          "channelId": "UCED79thiLyIhi7hNPpPmzag",
           "message": "HTTP 404"
         },
         {
-          "channel": "hime",
-          "channelId": "UCkOBcYvPJVTIXXpC8S9N9jA",
+          "channel": "정ok [ Life ]",
+          "channelId": "UC0eKsLOCcCdHPfMvFuftGMw",
           "message": "HTTP 404"
         },
         {
@@ -326,18 +391,23 @@
           "message": "HTTP 404"
         },
         {
-          "channel": "옆집CEO-보통 사람들의 돈 버는 이야기",
-          "channelId": "UCsneRL02KUIG3B1vGebED4w",
+          "channel": "맛킴",
+          "channelId": "UC7svIcWF4i1gvayNpMjuH7Q",
           "message": "HTTP 404"
         },
         {
-          "channel": "SCOOP I",
-          "channelId": "UC2_O8LhTpL4RN-5WPsRX0Ow",
+          "channel": "TOP5 만 모았다",
+          "channelId": "UC4wWQBkXlDCb69YCXTIUmhQ",
           "message": "HTTP 404"
         },
         {
-          "channel": "이웃집사장",
-          "channelId": "UC6w43bdyvx21dHu9gfQjS2g",
+          "channel": "Muncora Mukbang",
+          "channelId": "UCSfdrsPDD2TkjrK2hhrEWtQ",
+          "message": "HTTP 404"
+        },
+        {
+          "channel": "김똥뺌",
+          "channelId": "UCcolydb_lTaxieVVGqc5yEg",
           "message": "HTTP 404"
         },
         {
@@ -346,23 +416,8 @@
           "message": "HTTP 404"
         },
         {
-          "channel": "오늘은 뭐사지",
-          "channelId": "UCQpyus1m4_hqci-NriCuLAQ",
-          "message": "HTTP 404"
-        },
-        {
-          "channel": "만두TV",
-          "channelId": "UC7qTpR1nXQaMAGbB9UgAsFQ",
-          "message": "HTTP 404"
-        },
-        {
-          "channel": "말이되냐고?",
-          "channelId": "UCSoshAPURdO-JdQVzpQKrqg",
-          "message": "HTTP 404"
-        },
-        {
-          "channel": "TOP10 매니아",
-          "channelId": "UC6rwoPW0vF5HytOyoTOsuGw",
+          "channel": "먕이 TV",
+          "channelId": "UCA7hSBwt6B6r5TEnb3kmtHA",
           "message": "HTTP 404"
         },
         {
@@ -371,88 +426,18 @@
           "message": "HTTP 404"
         },
         {
-          "channel": "에쉴리가구",
-          "channelId": "UCgfEP6eRzFd6ae3sVL84Blw",
+          "channel": "말이되냐고?",
+          "channelId": "UCSoshAPURdO-JdQVzpQKrqg",
           "message": "HTTP 404"
         },
         {
-          "channel": "빈스-빈티지 홈스타일링",
-          "channelId": "UCNPvGO-ILUtHTqC2kkaXrGw",
-          "message": "HTTP 404"
-        },
-        {
-          "channel": "헤이즐로드",
-          "channelId": "UCjqAtHjfqy2k_cy9mJNCGDw",
-          "message": "HTTP 404"
-        },
-        {
-          "channel": "이거 누가 만들었지?",
-          "channelId": "UCx14s2XFxwKILgaI49oEdNw",
-          "message": "HTTP 404"
-        },
-        {
-          "channel": "봄로은",
-          "channelId": "UCWFDueWinMjdB6sDvRpH-RQ",
-          "message": "HTTP 404"
-        },
-        {
-          "channel": "GIRI CRAFT SPECIAL PAINTING ",
-          "channelId": "UC9pBl0CFOEjmMvefhf1NcUw",
-          "message": "HTTP 404"
-        },
-        {
-          "channel": "Marketing CMAGLOBAL",
-          "channelId": "UCJgf9O6rnhdVFoIqMtMaZOg",
-          "message": "HTTP 404"
-        },
-        {
-          "channel": "디자인용테리어",
-          "channelId": "UCTzn6LZrPaiA81ZAog_-DZA",
-          "message": "HTTP 404"
-        },
-        {
-          "channel": "세상의 모든 TIP - 세모TIP",
-          "channelId": "UC3xIbroA1ZvDPhUoheui6kw",
-          "message": "HTTP 404"
-        },
-        {
-          "channel": "예시리 YESIRI",
-          "channelId": "UC0pg0CCJLfDl2lFFDPbMMog",
-          "message": "HTTP 404"
-        },
-        {
-          "channel": "인테리어기준 - 집꾸미기ㅣ가구ㅣ소품추천",
-          "channelId": "UCElf8sXO4vCBRcRjCE6H76A",
-          "message": "HTTP 404"
-        },
-        {
-          "channel": "티파니",
-          "channelId": "UCQ4LPiRfS0aFlSmvlVhNdYA",
+          "channel": "SCOOP I",
+          "channelId": "UC2_O8LhTpL4RN-5WPsRX0Ow",
           "message": "HTTP 500"
         },
         {
-          "channel": "오빠쇼핑",
-          "channelId": "UC6fo3RmHxKvifkE68GIOYoQ",
-          "message": "HTTP 404"
-        },
-        {
-          "channel": "MINDELI민델리",
-          "channelId": "UCNcstCjc7E85wttJMn7OD9Q",
-          "message": "HTTP 404"
-        },
-        {
-          "channel": "JTBC News",
-          "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
-          "message": "HTTP 404"
-        },
-        {
-          "channel": "다잇쑤",
-          "channelId": "UCZq-d35AXVesFkEOvGW_6ng",
-          "message": "HTTP 404"
-        },
-        {
-          "channel": "몽상공간 (Dreaming space)",
-          "channelId": "UC0mLKe0-94tTd0SJPSjnYQw",
+          "channel": "천비누솝",
+          "channelId": "UCBFWxgrL9BppcLdpogGFWaQ",
           "message": "HTTP 404"
         },
         {
@@ -461,23 +446,48 @@
           "message": "HTTP 404"
         },
         {
-          "channel": "하프몰",
-          "channelId": "UCbffLhl4BMUbGta65BYpkIg",
+          "channel": "애봉이마켓",
+          "channelId": "UCoL_8PahEt5vJHH8Ttg2Jlw",
           "message": "HTTP 404"
         },
         {
-          "channel": "ILLIT",
-          "channelId": "UCEpFoWeCMCo5z3EvWaz6hQQ",
+          "channel": "몽상공간 (Dreaming space)",
+          "channelId": "UC0mLKe0-94tTd0SJPSjnYQw",
           "message": "HTTP 404"
         },
         {
-          "channel": "천비누솝",
-          "channelId": "UCBFWxgrL9BppcLdpogGFWaQ",
+          "channel": "슈퍼스타배수광",
+          "channelId": "UCfjv5ccb0V00KOHnQNPDHFg",
           "message": "HTTP 404"
         },
         {
-          "channel": "미아 Mia",
-          "channelId": "UCB0iI4S727iXExTQvEVG4UQ",
+          "channel": "늘이농",
+          "channelId": "UCoFfV8sTi5PWKEdvJP2XzWQ",
+          "message": "HTTP 404"
+        },
+        {
+          "channel": "티파니",
+          "channelId": "UCQ4LPiRfS0aFlSmvlVhNdYA",
+          "message": "HTTP 404"
+        },
+        {
+          "channel": "지냐 Jinyaa",
+          "channelId": "UCRiIf6rt91BVfZVtURRXlOw",
+          "message": "HTTP 404"
+        },
+        {
+          "channel": "아이 엠 베티 i am betty",
+          "channelId": "UCpA2ao9DCPwveAqI4ruXQlg",
+          "message": "HTTP 404"
+        },
+        {
+          "channel": "MINDELI민델리",
+          "channelId": "UCNcstCjc7E85wttJMn7OD9Q",
+          "message": "HTTP 500"
+        },
+        {
+          "channel": "뉴머니",
+          "channelId": "UCLOsPoIK68KqJAjCtpP1i_w",
           "message": "HTTP 404"
         },
         {
@@ -486,23 +496,33 @@
           "message": "HTTP 404"
         },
         {
+          "channel": "ILLIT",
+          "channelId": "UCEpFoWeCMCo5z3EvWaz6hQQ",
+          "message": "HTTP 404"
+        },
+        {
+          "channel": "bbomni 뽐니",
+          "channelId": "UCmPkZXhVfyLLWyHQM-l_KqA",
+          "message": "HTTP 404"
+        },
+        {
+          "channel": "미아 Mia",
+          "channelId": "UCB0iI4S727iXExTQvEVG4UQ",
+          "message": "HTTP 500"
+        },
+        {
+          "channel": "tvN D STUDIO",
+          "channelId": "UCLQ_lTDcNOj7VzNeW0kZ17w",
+          "message": "HTTP 404"
+        },
+        {
+          "channel": "Emma Ahn",
+          "channelId": "UCIod-bISMPG9mVYNwZ8pvnQ",
+          "message": "HTTP 404"
+        },
+        {
           "channel": "WEEKDAYY 윅데이",
           "channelId": "UC61w7oFkCFF1XpsxC8f8U2A",
-          "message": "HTTP 404"
-        },
-        {
-          "channel": "제이미포유 Jaymeeforyou",
-          "channelId": "UClJNgnMWzvEzJuLcpH7m4vQ",
-          "message": "HTTP 404"
-        },
-        {
-          "channel": "빛이나*pearlena*",
-          "channelId": "UCT1MM1P7-CTZHO-LZLNbH5A",
-          "message": "HTTP 404"
-        },
-        {
-          "channel": "이후도",
-          "channelId": "UCNsk9ARrpXCuQZkg4iQXiOg",
           "message": "HTTP 404"
         },
         {
@@ -511,24 +531,19 @@
           "message": "HTTP 404"
         },
         {
+          "channel": "염차 yeomcha",
+          "channelId": "UCbgVDTJhIhe91ipsXZBFpog",
+          "message": "HTTP 404"
+        },
+        {
           "channel": "GinaJung 지나정",
           "channelId": "UCly2mHGHktbgG2QpvudXDzQ",
           "message": "HTTP 404"
         },
         {
-          "channel": "탈패션 FASHION",
-          "channelId": "UCvz69hskxi36eFq0rzUj_PA",
+          "channel": "알로하 aloha",
+          "channelId": "UC_XkLhG1aXGeeCy91uXVEBQ",
           "message": "HTTP 404"
-        },
-        {
-          "channel": "윤비누YOONSOAP",
-          "channelId": "UCN7aGesO7kZlA58tVmWTzBA",
-          "message": "HTTP 404"
-        },
-        {
-          "channel": "AI 리더스 연구소",
-          "channelId": "UCMD6dQUXm3ELqaiEs5yFycQ",
-          "message": "HTTP 500"
         },
         {
           "channel": "Harry Has",
@@ -536,102 +551,76 @@
           "message": "HTTP 404"
         },
         {
-          "channel": "염차 yeomcha",
-          "channelId": "UCbgVDTJhIhe91ipsXZBFpog",
-          "message": "HTTP 404"
-        },
-        {
-          "channel": "다즐킴 DAZZLE KIM",
-          "channelId": "UCzrrFWigoqHFBSUWp7LjpjA",
-          "message": "HTTP 404"
-        },
-        {
-          "channel": "알로하 aloha",
-          "channelId": "UC_XkLhG1aXGeeCy91uXVEBQ",
-          "message": "HTTP 404"
+          "channel": "윤비누YOONSOAP",
+          "channelId": "UCN7aGesO7kZlA58tVmWTzBA",
+          "message": "HTTP 500"
         }
       ],
-      "recentCandidates": 7,
-      "detailChecked": 3,
-      "detailErrorCount": 3,
-      "detailErrors": [
-        {
-          "id": "DmOjsyVcjVQ",
-          "source": "https://inv.thepixora.com",
-          "message": "Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
-        },
-        {
-          "id": "LmWv-by_ZKA",
-          "source": "https://inv.thepixora.com",
-          "message": "Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
-        },
-        {
-          "id": "euhHISfXTAA",
-          "source": "https://inv.thepixora.com",
-          "message": "Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
-        }
-      ],
-      "rssFallbackChecked": 4,
-      "rssFallbackAccepted": 4,
-      "accepted": 4,
-      "trendAccepted": 4,
+      "recentCandidates": 0,
+      "detailChecked": 0,
+      "detailErrorCount": 0,
+      "detailErrors": [],
+      "rssFallbackChecked": 0,
+      "rssFallbackAccepted": 0,
+      "accepted": 0,
+      "trendAccepted": 0,
       "freshAccepted": 0,
       "rejected": []
     }
   },
   "instagram": {
-    "accounts": [],
-    "skipped": [],
-    "errors": [
+    "accounts": [
       {
         "acct": "omuk.official",
-        "message": "HTTP 429"
+        "found": 0
       },
       {
         "acct": "todayhouse",
-        "message": "HTTP 429"
+        "found": 0
       },
       {
         "acct": "_tripgoing",
-        "message": "HTTP 429"
+        "found": 0
       },
       {
         "acct": "eyesmag",
-        "message": "HTTP 429"
+        "found": 0
       },
       {
         "acct": "yuziman__",
-        "message": "HTTP 429"
+        "found": 0
       },
       {
         "acct": "dada_salrim",
-        "message": "HTTP 429"
+        "found": 0
       },
       {
         "acct": "de_elisa_shop",
-        "message": "HTTP 429"
+        "found": 0
       },
       {
         "acct": "a_rim_z",
-        "message": "HTTP 429"
+        "found": 0
       },
       {
         "acct": "lee_mido",
-        "message": "HTTP 429"
+        "found": 0
       },
       {
         "acct": "campinghankki",
-        "message": "HTTP 429"
+        "found": 0
       },
       {
         "acct": "ggumigi",
-        "message": "HTTP 429"
+        "found": 0
       },
       {
         "acct": "salim_nam_official",
-        "message": "HTTP 429"
+        "found": 0
       }
     ],
+    "skipped": [],
+    "errors": [],
     "provider": {
       "ok": false,
       "skipped": true,
@@ -642,11 +631,11 @@
     "accounts": [
       {
         "acct": "maxi_more__",
-        "found": 5
+        "found": 0
       },
       {
         "acct": "orion_on82",
-        "found": 8
+        "found": 0
       },
       {
         "acct": "zipbysuni",
@@ -654,31 +643,31 @@
       },
       {
         "acct": "iero._.cider",
-        "found": 8
+        "found": 0
       },
       {
         "acct": "yunseul._.e",
-        "found": 8
+        "found": 0
       },
       {
         "acct": "mymoney_mytaste",
-        "found": 5
+        "found": 0
       },
       {
         "acct": "homepick.official",
-        "found": 8
+        "found": 0
       },
       {
         "acct": "vintage_aldo",
-        "found": 7
+        "found": 0
       },
       {
         "acct": "ohmy_it_tem",
-        "found": 8
+        "found": 0
       },
       {
         "acct": "yd113202",
-        "found": 7
+        "found": 0
       },
       {
         "acct": "dave_hyemin",
@@ -686,419 +675,10 @@
       },
       {
         "acct": "sunny.siot",
-        "found": 4
+        "found": 0
       }
     ],
-    "skipped": [
-      {
-        "acct": "maxi_more__",
-        "id": "DO5rxzDk9NL",
-        "link": "https://www.threads.com/@maxi_more__/post/DO5rxzDk9NL",
-        "reason": "public-page-without-views"
-      },
-      {
-        "acct": "maxi_more__",
-        "id": "DO5ve1Uk6zF",
-        "link": "https://www.threads.com/@maxi_more__/post/DO5ve1Uk6zF",
-        "reason": "public-page-without-views"
-      },
-      {
-        "acct": "maxi_more__",
-        "id": "DfOSrNOkrI3",
-        "link": "https://www.threads.com/@maxi_more__/post/DfOSrNOkrI3",
-        "reason": "public-page-without-views"
-      },
-      {
-        "acct": "maxi_more__",
-        "id": "DfLqnhkDtxO",
-        "link": "https://www.threads.com/@maxi_more__/post/DfLqnhkDtxO",
-        "reason": "public-page-without-views"
-      },
-      {
-        "acct": "maxi_more__",
-        "id": "DfHW5sqjLaU",
-        "link": "https://www.threads.com/@maxi_more__/post/DfHW5sqjLaU",
-        "reason": "public-page-without-views"
-      },
-      {
-        "acct": "orion_on82",
-        "id": "DfSDFdQkqQs",
-        "link": "https://www.threads.com/@orion_on82/post/DfSDFdQkqQs",
-        "reason": "public-page-without-views"
-      },
-      {
-        "acct": "orion_on82",
-        "id": "DfSDMWJEmGF",
-        "link": "https://www.threads.com/@orion_on82/post/DfSDMWJEmGF",
-        "reason": "public-page-without-views"
-      },
-      {
-        "acct": "orion_on82",
-        "id": "DfQ2tI9ko3C",
-        "link": "https://www.threads.com/@orion_on82/post/DfQ2tI9ko3C",
-        "reason": "public-page-without-views"
-      },
-      {
-        "acct": "orion_on82",
-        "id": "DfQ21etku-y",
-        "link": "https://www.threads.com/@orion_on82/post/DfQ21etku-y",
-        "reason": "public-page-without-views"
-      },
-      {
-        "acct": "orion_on82",
-        "id": "DfQgKgFEjdo",
-        "link": "https://www.threads.com/@orion_on82/post/DfQgKgFEjdo",
-        "reason": "public-page-without-views"
-      },
-      {
-        "acct": "orion_on82",
-        "id": "DfQgPo2kqX3",
-        "link": "https://www.threads.com/@orion_on82/post/DfQgPo2kqX3",
-        "reason": "public-page-without-views"
-      },
-      {
-        "acct": "orion_on82",
-        "id": "DfPiPcrEqZN",
-        "link": "https://www.threads.com/@orion_on82/post/DfPiPcrEqZN",
-        "reason": "public-page-without-views"
-      },
-      {
-        "acct": "orion_on82",
-        "id": "DfPiVVwEk_A",
-        "link": "https://www.threads.com/@orion_on82/post/DfPiVVwEk_A",
-        "reason": "public-page-without-views"
-      },
-      {
-        "acct": "iero._.cider",
-        "id": "DfPp_nDk3zF",
-        "link": "https://www.threads.com/@iero._.cider/post/DfPp_nDk3zF",
-        "reason": "public-page-without-views"
-      },
-      {
-        "acct": "iero._.cider",
-        "id": "DfPqFT4EzFp",
-        "link": "https://www.threads.com/@iero._.cider/post/DfPqFT4EzFp",
-        "reason": "public-page-without-views"
-      },
-      {
-        "acct": "iero._.cider",
-        "id": "DfJAjOrkwyz",
-        "link": "https://www.threads.com/@iero._.cider/post/DfJAjOrkwyz",
-        "reason": "public-page-without-views"
-      },
-      {
-        "acct": "iero._.cider",
-        "id": "DfJAqf7E5bM",
-        "link": "https://www.threads.com/@iero._.cider/post/DfJAqf7E5bM",
-        "reason": "public-page-without-views"
-      },
-      {
-        "acct": "iero._.cider",
-        "id": "DfI_jGUE7nP",
-        "link": "https://www.threads.com/@iero._.cider/post/DfI_jGUE7nP",
-        "reason": "public-page-without-views"
-      },
-      {
-        "acct": "iero._.cider",
-        "id": "DfI_pudk_Na",
-        "link": "https://www.threads.com/@iero._.cider/post/DfI_pudk_Na",
-        "reason": "public-page-without-views"
-      },
-      {
-        "acct": "iero._.cider",
-        "id": "DfASt_Mk-xN",
-        "link": "https://www.threads.com/@iero._.cider/post/DfASt_Mk-xN",
-        "reason": "public-page-without-views"
-      },
-      {
-        "acct": "iero._.cider",
-        "id": "DfAS7VaE9XK",
-        "link": "https://www.threads.com/@iero._.cider/post/DfAS7VaE9XK",
-        "reason": "public-page-without-views"
-      },
-      {
-        "acct": "yunseul._.e",
-        "id": "DYzNOPpjxY1",
-        "link": "https://www.threads.com/@yunseul._.e/post/DYzNOPpjxY1",
-        "reason": "public-page-without-views"
-      },
-      {
-        "acct": "yunseul._.e",
-        "id": "DYzNseYCYx6",
-        "link": "https://www.threads.com/@yunseul._.e/post/DYzNseYCYx6",
-        "reason": "public-page-without-views"
-      },
-      {
-        "acct": "yunseul._.e",
-        "id": "DYzMReSiVRq",
-        "link": "https://www.threads.com/@yunseul._.e/post/DYzMReSiVRq",
-        "reason": "public-page-without-views"
-      },
-      {
-        "acct": "yunseul._.e",
-        "id": "DYzMSILCQNZ",
-        "link": "https://www.threads.com/@yunseul._.e/post/DYzMSILCQNZ",
-        "reason": "public-page-without-views"
-      },
-      {
-        "acct": "yunseul._.e",
-        "id": "DYzKcLzCSPU",
-        "link": "https://www.threads.com/@yunseul._.e/post/DYzKcLzCSPU",
-        "reason": "public-page-without-views"
-      },
-      {
-        "acct": "yunseul._.e",
-        "id": "DYzKc0DCVgF",
-        "link": "https://www.threads.com/@yunseul._.e/post/DYzKc0DCVgF",
-        "reason": "public-page-without-views"
-      },
-      {
-        "acct": "yunseul._.e",
-        "id": "DYzJv2GCeF3",
-        "link": "https://www.threads.com/@yunseul._.e/post/DYzJv2GCeF3",
-        "reason": "public-page-without-views"
-      },
-      {
-        "acct": "yunseul._.e",
-        "id": "DYzJwcViWX1",
-        "link": "https://www.threads.com/@yunseul._.e/post/DYzJwcViWX1",
-        "reason": "public-page-without-views"
-      },
-      {
-        "acct": "mymoney_mytaste",
-        "id": "DUzUP8uE-ul",
-        "link": "https://www.threads.com/@mymoney_mytaste/post/DUzUP8uE-ul",
-        "reason": "public-page-without-views"
-      },
-      {
-        "acct": "mymoney_mytaste",
-        "id": "DVI0MDZE3ws",
-        "link": "https://www.threads.com/@mymoney_mytaste/post/DVI0MDZE3ws",
-        "reason": "public-page-without-views"
-      },
-      {
-        "acct": "mymoney_mytaste",
-        "id": "DXRZbIhk4_I",
-        "link": "https://www.threads.com/@mymoney_mytaste/post/DXRZbIhk4_I",
-        "reason": "public-page-without-views"
-      },
-      {
-        "acct": "mymoney_mytaste",
-        "id": "DXEEqi5kzqm",
-        "link": "https://www.threads.com/@mymoney_mytaste/post/DXEEqi5kzqm",
-        "reason": "public-page-without-views"
-      },
-      {
-        "acct": "mymoney_mytaste",
-        "id": "DWsiI-sk0Rs",
-        "link": "https://www.threads.com/@mymoney_mytaste/post/DWsiI-sk0Rs",
-        "reason": "public-page-without-views"
-      },
-      {
-        "acct": "homepick.official",
-        "id": "DQ8cXW7Caso",
-        "link": "https://www.threads.com/@homepick.official/post/DQ8cXW7Caso",
-        "reason": "public-page-without-views"
-      },
-      {
-        "acct": "homepick.official",
-        "id": "DebZmTMGu4u",
-        "link": "https://www.threads.com/@homepick.official/post/DebZmTMGu4u",
-        "reason": "public-page-without-views"
-      },
-      {
-        "acct": "homepick.official",
-        "id": "DebZmAcmhBU",
-        "link": "https://www.threads.com/@homepick.official/post/DebZmAcmhBU",
-        "reason": "public-page-without-views"
-      },
-      {
-        "acct": "homepick.official",
-        "id": "DYtNPjkmjYU",
-        "link": "https://www.threads.com/@homepick.official/post/DYtNPjkmjYU",
-        "reason": "public-page-without-views"
-      },
-      {
-        "acct": "homepick.official",
-        "id": "DYtNOHumkqD",
-        "link": "https://www.threads.com/@homepick.official/post/DYtNOHumkqD",
-        "reason": "public-page-without-views"
-      },
-      {
-        "acct": "homepick.official",
-        "id": "DYq48xuGiAE",
-        "link": "https://www.threads.com/@homepick.official/post/DYq48xuGiAE",
-        "reason": "public-page-without-views"
-      },
-      {
-        "acct": "homepick.official",
-        "id": "DYq48gymq-k",
-        "link": "https://www.threads.com/@homepick.official/post/DYq48gymq-k",
-        "reason": "public-page-without-views"
-      },
-      {
-        "acct": "homepick.official",
-        "id": "DYq5GSyGh3e",
-        "link": "https://www.threads.com/@homepick.official/post/DYq5GSyGh3e",
-        "reason": "public-page-without-views"
-      },
-      {
-        "acct": "vintage_aldo",
-        "id": "DS6cS74Ce1h",
-        "link": "https://www.threads.com/@vintage_aldo/post/DS6cS74Ce1h",
-        "reason": "public-page-without-views"
-      },
-      {
-        "acct": "vintage_aldo",
-        "id": "DS9zvsrCRqI",
-        "link": "https://www.threads.com/@vintage_aldo/post/DS9zvsrCRqI",
-        "reason": "public-page-without-views"
-      },
-      {
-        "acct": "vintage_aldo",
-        "id": "DfA3tkMEkYa",
-        "link": "https://www.threads.com/@vintage_aldo/post/DfA3tkMEkYa",
-        "reason": "public-page-without-views"
-      },
-      {
-        "acct": "vintage_aldo",
-        "id": "DfA7D6KEg3h",
-        "link": "https://www.threads.com/@vintage_aldo/post/DfA7D6KEg3h",
-        "reason": "public-page-without-views"
-      },
-      {
-        "acct": "vintage_aldo",
-        "id": "DeyN37YiSpU",
-        "link": "https://www.threads.com/@vintage_aldo/post/DeyN37YiSpU",
-        "reason": "public-page-without-views"
-      },
-      {
-        "acct": "vintage_aldo",
-        "id": "DetQk5TCZja",
-        "link": "https://www.threads.com/@vintage_aldo/post/DetQk5TCZja",
-        "reason": "public-page-without-views"
-      },
-      {
-        "acct": "vintage_aldo",
-        "id": "DetRxrhCRpq",
-        "link": "https://www.threads.com/@vintage_aldo/post/DetRxrhCRpq",
-        "reason": "public-page-without-views"
-      },
-      {
-        "acct": "ohmy_it_tem",
-        "id": "DcdyK56Hez8",
-        "link": "https://www.threads.com/@ohmy_it_tem/post/DcdyK56Hez8",
-        "reason": "public-page-without-views"
-      },
-      {
-        "acct": "ohmy_it_tem",
-        "id": "DcdyZZAndjo",
-        "link": "https://www.threads.com/@ohmy_it_tem/post/DcdyZZAndjo",
-        "reason": "public-page-without-views"
-      },
-      {
-        "acct": "ohmy_it_tem",
-        "id": "DcaXGA1EbmS",
-        "link": "https://www.threads.com/@ohmy_it_tem/post/DcaXGA1EbmS",
-        "reason": "public-page-without-views"
-      },
-      {
-        "acct": "ohmy_it_tem",
-        "id": "DcaXTPeEQ-U",
-        "link": "https://www.threads.com/@ohmy_it_tem/post/DcaXTPeEQ-U",
-        "reason": "public-page-without-views"
-      },
-      {
-        "acct": "ohmy_it_tem",
-        "id": "DcaUM9Ukc96",
-        "link": "https://www.threads.com/@ohmy_it_tem/post/DcaUM9Ukc96",
-        "reason": "public-page-without-views"
-      },
-      {
-        "acct": "ohmy_it_tem",
-        "id": "DcaUtfhkd62",
-        "link": "https://www.threads.com/@ohmy_it_tem/post/DcaUtfhkd62",
-        "reason": "public-page-without-views"
-      },
-      {
-        "acct": "ohmy_it_tem",
-        "id": "DcNapkzEUGj",
-        "link": "https://www.threads.com/@ohmy_it_tem/post/DcNapkzEUGj",
-        "reason": "public-page-without-views"
-      },
-      {
-        "acct": "ohmy_it_tem",
-        "id": "DcNa4WhkVDL",
-        "link": "https://www.threads.com/@ohmy_it_tem/post/DcNa4WhkVDL",
-        "reason": "public-page-without-views"
-      },
-      {
-        "acct": "yd113202",
-        "id": "DdWLukmExe3",
-        "link": "https://www.threads.com/@yd113202/post/DdWLukmExe3",
-        "reason": "public-page-without-views"
-      },
-      {
-        "acct": "yd113202",
-        "id": "DdWLvRnE8WJ",
-        "link": "https://www.threads.com/@yd113202/post/DdWLvRnE8WJ",
-        "reason": "public-page-without-views"
-      },
-      {
-        "acct": "yd113202",
-        "id": "DdVzwmCEwQW",
-        "link": "https://www.threads.com/@yd113202/post/DdVzwmCEwQW",
-        "reason": "public-page-without-views"
-      },
-      {
-        "acct": "yd113202",
-        "id": "DdVzxTGk6PI",
-        "link": "https://www.threads.com/@yd113202/post/DdVzxTGk6PI",
-        "reason": "public-page-without-views"
-      },
-      {
-        "acct": "yd113202",
-        "id": "DdVdG4Ik2DQ",
-        "link": "https://www.threads.com/@yd113202/post/DdVdG4Ik2DQ",
-        "reason": "public-page-without-views"
-      },
-      {
-        "acct": "yd113202",
-        "id": "DdVLFdmEzdc",
-        "link": "https://www.threads.com/@yd113202/post/DdVLFdmEzdc",
-        "reason": "public-page-without-views"
-      },
-      {
-        "acct": "yd113202",
-        "id": "DdVLGBgkxIp",
-        "link": "https://www.threads.com/@yd113202/post/DdVLGBgkxIp",
-        "reason": "public-page-without-views"
-      },
-      {
-        "acct": "sunny.siot",
-        "id": "DMjeFaHTRaW",
-        "link": "https://www.threads.com/@sunny.siot/post/DMjeFaHTRaW",
-        "reason": "public-page-without-views"
-      },
-      {
-        "acct": "sunny.siot",
-        "id": "DeuK16dDckI",
-        "link": "https://www.threads.com/@sunny.siot/post/DeuK16dDckI",
-        "reason": "public-page-without-views"
-      },
-      {
-        "acct": "sunny.siot",
-        "id": "Dc3ctEcD0vF",
-        "link": "https://www.threads.com/@sunny.siot/post/Dc3ctEcD0vF",
-        "reason": "public-page-without-views"
-      },
-      {
-        "acct": "sunny.siot",
-        "id": "DcgS_vRj8yL",
-        "link": "https://www.threads.com/@sunny.siot/post/DcgS_vRj8yL",
-        "reason": "public-page-without-views"
-      }
-    ],
+    "skipped": [],
     "errors": [],
     "provider": {
       "ok": false,
@@ -1106,16 +686,16 @@
       "reason": "missing THREADS_DATA_API_KEY or endpoint"
     }
   },
-  "finishedAt": "2026-11-03T23:17:04.562Z",
+  "finishedAt": "2026-11-04T23:37:43.496Z",
   "added": {
     "youtube": 0,
     "instagram": 0,
     "threads": 0
   },
   "metricSnapshots": {
-    "sampledAt": "2026-11-03T23:17:03.946Z",
+    "sampledAt": "2026-11-04T23:37:43.007Z",
     "tracked": {
-      "youtube": 2212,
+      "youtube": 2203,
       "instagram": 1317,
       "threads": 215
     },
@@ -1125,9 +705,9 @@
       "threads": 0
     }
   },
-  "version": "2026-11-03T23:17:04.562Z:ae961bb7bff1",
+  "version": "2026-11-04T23:37:43.496Z:279b64cdcf2b",
   "after": {
-    "youtube": 2212,
+    "youtube": 2203,
     "threads": 215,
     "instagram": 1317
   }
