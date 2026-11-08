@@ -1,16 +1,16 @@
 {
-  "version": "2026-11-07T21:46:00.551Z:a28242230196",
-  "generatedAt": "2026-11-07T21:46:00.551Z",
+  "version": "2026-11-08T21:59:49.455Z:99fd0644d20b",
+  "generatedAt": "2026-11-08T21:59:49.455Z",
   "sourceUrl": "direct:no-login",
   "counts": {
-    "youtube": 2225,
+    "youtube": 2237,
     "threads": 215,
     "instagram": 1317
   },
   "dateRanges": {
     "youtube": {
       "min": "2018-02-24",
-      "max": "2026-11-07",
+      "max": "2026-11-08",
       "invalid": 0
     },
     "threads": {
@@ -27,10 +27,10 @@
   "collector": {
     "ok": true,
     "mode": "direct-no-login",
-    "startedAt": "2026-11-07T21:45:31.209Z",
+    "startedAt": "2026-11-08T21:59:20.179Z",
     "source": "youtube public no-login plus optional instagram/threads public-data providers with traffic-quality gates",
     "before": {
-      "youtube": 2219,
+      "youtube": 2225,
       "threads": 215,
       "instagram": 1317
     },
@@ -41,22 +41,22 @@
       "minMultiplier": 2
     },
     "pruned": {
-      "youtube": 8,
+      "youtube": 12,
       "instagram": 0,
       "threads": 0
     },
     "youtube": {
       "queries": [
         {
-          "query": "살림템 추천 쇼츠",
-          "found": 12,
-          "channels": 0,
-          "mode": "search-channel-rss"
-        },
-        {
           "query": "다이소 추천 쇼츠",
           "found": 12,
           "channels": 12,
+          "mode": "search-channel-rss"
+        },
+        {
+          "query": "살림템 추천 쇼츠",
+          "found": 12,
+          "channels": 11,
           "mode": "search-channel-rss"
         },
         {
@@ -72,21 +72,21 @@
           "mode": "search-channel-rss"
         },
         {
-          "query": "간식 추천 쇼츠",
-          "found": 12,
-          "channels": 0,
-          "mode": "search-channel-rss"
-        },
-        {
           "query": "먹거리 추천 쇼츠",
           "found": 12,
           "channels": 11,
           "mode": "search-channel-rss"
         },
         {
+          "query": "간식 추천 쇼츠",
+          "found": 12,
+          "channels": 12,
+          "mode": "search-channel-rss"
+        },
+        {
           "query": "화장품 추천 쇼츠",
           "found": 12,
-          "channels": 0,
+          "channels": 12,
           "mode": "search-channel-rss"
         },
         {
@@ -120,13 +120,13 @@
           "mode": "search-channel-rss"
         },
         {
-          "query": "생활 꿀템 쇼츠",
+          "query": "쿠팡 추천템 쇼츠",
           "found": 12,
           "channels": 12,
           "mode": "search-channel-rss"
         },
         {
-          "query": "쿠팡 추천템 쇼츠",
+          "query": "생활 꿀템 쇼츠",
           "found": 12,
           "channels": 12,
           "mode": "search-channel-rss"
@@ -138,13 +138,13 @@
           "mode": "search-channel-rss"
         },
         {
-          "query": "올리브영 추천템 쇼츠",
+          "query": "가성비 추천템 쇼츠",
           "found": 12,
-          "channels": 11,
+          "channels": 12,
           "mode": "search-channel-rss"
         },
         {
-          "query": "가성비 추천템 쇼츠",
+          "query": "올리브영 추천템 쇼츠",
           "found": 12,
           "channels": 12,
           "mode": "search-channel-rss"
@@ -156,13 +156,13 @@
           "mode": "search-channel-rss"
         },
         {
-          "query": "청소 꿀템 쇼츠",
+          "query": "자취템 추천 쇼츠",
           "found": 12,
           "channels": 12,
           "mode": "search-channel-rss"
         },
         {
-          "query": "자취템 추천 쇼츠",
+          "query": "청소 꿀템 쇼츠",
           "found": 12,
           "channels": 12,
           "mode": "search-channel-rss"
@@ -183,32 +183,212 @@
       "rejected": [
         {
           "rejected": true,
-          "id": "B66DkXsl2DU",
-          "title": "갑자기 밥맛이 떨어졌다면 밥솥을 뒤집어 보세요. 1초만에 새 것 만들어주는 전기밥솥 청소 꿀팁",
-          "ch": "슬이뷰",
-          "views": 6598,
-          "up": "2026-10-28",
+          "id": "ILENWSVnGvc",
+          "title": "주방 일회용품 싹 없애주는 실리콘 지퍼백 활용법 6가지 #살림꿀템 #살림템 #실리콘백",
+          "ch": "살림로그_살림을 기록하다.",
+          "views": 16394,
+          "up": "2026-10-29",
           "reason": "views<30000,daily<10000;fresh-old>10d",
-          "dailyViews": 600,
+          "dailyViews": 1490,
           "sourceQuery": "다이소 추천 쇼츠",
           "metricSource": "youtube-rss-feed",
-          "sourceChannelId": "UC4RUS_IZjPOthrSel6zIT5A",
-          "sourceChannel": "슬이뷰",
+          "sourceChannelId": "UCx8uFUihkZnQRU6lVJXs7Dg",
+          "sourceChannel": "살림로그_살림을 기록하다.",
           "evidence": "youtube-search-channel-rss-upload-date-rss-view-count-shorts-url"
         },
         {
           "rejected": true,
-          "id": "XiSZ9VAA-2E",
-          "title": "올영에서 비싼값 하는 애들입니다..🔥(유리알 피부됨) #추천 #올리브영",
-          "ch": "제이미포유 Jaymeeforyou",
-          "views": 8158,
-          "up": "2026-10-18",
+          "id": "fZ4DXiGRgCk",
+          "title": "좋아서 정착한 관리 꿀템 3가지!",
+          "ch": "꼼수살림",
+          "views": 21703,
+          "up": "2026-10-23",
           "reason": "views<30000,daily<10000;fresh-old>10d",
-          "dailyViews": 388,
+          "dailyViews": 1277,
           "sourceQuery": "다이소 추천 쇼츠",
           "metricSource": "youtube-rss-feed",
-          "sourceChannelId": "UClJNgnMWzvEzJuLcpH7m4vQ",
-          "sourceChannel": "제이미포유 Jaymeeforyou",
+          "sourceChannelId": "UCj3LfARKs2hmDuIHhPYIO2A",
+          "sourceChannel": "꼼수살림",
+          "evidence": "youtube-search-channel-rss-upload-date-rss-view-count-shorts-url"
+        },
+        {
+          "rejected": true,
+          "id": "VIw2SgL-C6Y",
+          "title": "478번 온열빨래건조대 접이식는 #두배로꿀팁 #온열빨래건조대 #빨래건조대 #살림꿀템 #shorts",
+          "ch": "두배로꿀팁",
+          "views": 209,
+          "up": "2026-11-05",
+          "reason": "views<30000,daily<10000;fresh-views<1000,fresh-daily<300",
+          "dailyViews": 52,
+          "sourceQuery": "살림템 추천 쇼츠",
+          "metricSource": "youtube-rss-feed",
+          "sourceChannelId": "UCod3ACfa8UqqTuE10-MRnDA",
+          "sourceChannel": "두배로꿀팁",
+          "evidence": "youtube-search-channel-rss-upload-date-rss-view-count-shorts-url"
+        },
+        {
+          "rejected": true,
+          "id": "O9pFMM928Rw",
+          "title": "371번 냄비 탈부착손잡이는 #두배로꿀팁 #냄비손잡이 #탈부착손잡이 #살림꿀템 #shorts",
+          "ch": "두배로꿀팁",
+          "views": 353,
+          "up": "2026-11-02",
+          "reason": "views<30000,daily<10000;fresh-views<1000,fresh-daily<300",
+          "dailyViews": 50,
+          "sourceQuery": "살림템 추천 쇼츠",
+          "metricSource": "youtube-rss-feed",
+          "sourceChannelId": "UCod3ACfa8UqqTuE10-MRnDA",
+          "sourceChannel": "두배로꿀팁",
+          "evidence": "youtube-search-channel-rss-upload-date-rss-view-count-shorts-url"
+        },
+        {
+          "rejected": true,
+          "id": "C6vOiJEQ7PA",
+          "title": "321번 기름응고제는 #두배로꿀팁 #기름응고제 #폐기름버리는법 #살림꿀템 #shorts",
+          "ch": "두배로꿀팁",
+          "views": 963,
+          "up": "2026-10-30",
+          "reason": "views<30000,daily<10000;fresh-views<1000,fresh-daily<300",
+          "dailyViews": 96,
+          "sourceQuery": "살림템 추천 쇼츠",
+          "metricSource": "youtube-rss-feed",
+          "sourceChannelId": "UCod3ACfa8UqqTuE10-MRnDA",
+          "sourceChannel": "두배로꿀팁",
+          "evidence": "youtube-search-channel-rss-upload-date-rss-view-count-shorts-url"
+        },
+        {
+          "rejected": true,
+          "id": "9LTSvLSZgtk",
+          "title": "집 안 공간을 나누고 싶을 때 #가벽파티션 #공간분리 #인테리어소품 #집꾸미기 #두배로꿀팁",
+          "ch": "두배로꿀팁",
+          "views": 1358,
+          "up": "2026-10-27",
+          "reason": "views<30000,daily<10000;fresh-old>10d,fresh-daily<300",
+          "dailyViews": 104,
+          "sourceQuery": "살림템 추천 쇼츠",
+          "metricSource": "youtube-rss-feed",
+          "sourceChannelId": "UCod3ACfa8UqqTuE10-MRnDA",
+          "sourceChannel": "두배로꿀팁",
+          "evidence": "youtube-search-channel-rss-upload-date-rss-view-count-shorts-url"
+        },
+        {
+          "rejected": true,
+          "id": "FtT2ud2aHvk",
+          "title": "현관으로 들어오는 찬바람이 고민이라면 #방풍비닐커튼 #현관바람막이 #방한커튼 #겨울철필수템 #소문난홈",
+          "ch": "소문난홈",
+          "views": 292,
+          "up": "2026-11-06",
+          "reason": "views<30000,daily<10000;fresh-views<1000,fresh-daily<300",
+          "dailyViews": 97,
+          "sourceQuery": "살림템 추천 쇼츠",
+          "metricSource": "youtube-rss-feed",
+          "sourceChannelId": "UCXp1RmvMYbzH1j1pn8HfMZw",
+          "sourceChannel": "소문난홈",
+          "evidence": "youtube-search-channel-rss-upload-date-rss-view-count-shorts-url"
+        },
+        {
+          "rejected": true,
+          "id": "H5K1PIpHEa8",
+          "title": "120번 침대주걱는 #소문난홈 #침대주걱 #침구정리 #살림꿀템 #shorts",
+          "ch": "소문난홈",
+          "views": 679,
+          "up": "2026-10-30",
+          "reason": "views<30000,daily<10000;fresh-views<1000,fresh-daily<300",
+          "dailyViews": 68,
+          "sourceQuery": "살림템 추천 쇼츠",
+          "metricSource": "youtube-rss-feed",
+          "sourceChannelId": "UCXp1RmvMYbzH1j1pn8HfMZw",
+          "sourceChannel": "소문난홈",
+          "evidence": "youtube-search-channel-rss-upload-date-rss-view-count-shorts-url"
+        },
+        {
+          "rejected": true,
+          "id": "Iv3o_o5dcBc",
+          "title": "266번 다용도 길이조절 수납는 #소문난홈 #길이조절수납 #서랍정리 #살림꿀템 #shorts",
+          "ch": "소문난홈",
+          "views": 1201,
+          "up": "2026-10-29",
+          "reason": "views<30000,daily<10000;fresh-old>10d,fresh-daily<300",
+          "dailyViews": 109,
+          "sourceQuery": "살림템 추천 쇼츠",
+          "metricSource": "youtube-rss-feed",
+          "sourceChannelId": "UCXp1RmvMYbzH1j1pn8HfMZw",
+          "sourceChannel": "소문난홈",
+          "evidence": "youtube-search-channel-rss-upload-date-rss-view-count-shorts-url"
+        },
+        {
+          "rejected": true,
+          "id": "jDnuDDgGiEY",
+          "title": "세탁기 좁은 틈새 청소할 때 #세탁기청소 #틈새청소솔 #청소용품 #살림꿀팁 #소문난홈",
+          "ch": "소문난홈",
+          "views": 1205,
+          "up": "2026-10-27",
+          "reason": "views<30000,daily<10000;fresh-old>10d,fresh-daily<300",
+          "dailyViews": 93,
+          "sourceQuery": "살림템 추천 쇼츠",
+          "metricSource": "youtube-rss-feed",
+          "sourceChannelId": "UCXp1RmvMYbzH1j1pn8HfMZw",
+          "sourceChannel": "소문난홈",
+          "evidence": "youtube-search-channel-rss-upload-date-rss-view-count-shorts-url"
+        },
+        {
+          "rejected": true,
+          "id": "s84C7XFIp6o",
+          "title": "주방 수납공간이 더 필요할 때 #냉장고형수납장 #수납캐비닛 #주방정리 #공간활용 #소문난홈",
+          "ch": "소문난홈",
+          "views": 15,
+          "up": "2026-10-26",
+          "reason": "views<30000,daily<10000;fresh-old>10d,fresh-views<1000,fresh-daily<300",
+          "dailyViews": 1,
+          "sourceQuery": "살림템 추천 쇼츠",
+          "metricSource": "youtube-rss-feed",
+          "sourceChannelId": "UCXp1RmvMYbzH1j1pn8HfMZw",
+          "sourceChannel": "소문난홈",
+          "evidence": "youtube-search-channel-rss-upload-date-rss-view-count-shorts-url"
+        },
+        {
+          "rejected": true,
+          "id": "3BvV25y-wE4",
+          "title": "[광고] 수압 약해서 답답하셨나요? 🚿 필터 샤워기 추천 #쇼츠 #득템상회",
+          "ch": "득템상회",
+          "views": 17,
+          "up": "2026-10-29",
+          "reason": "views<30000,daily<10000;fresh-old>10d,fresh-views<1000,fresh-daily<300",
+          "dailyViews": 2,
+          "sourceQuery": "살림템 추천 쇼츠",
+          "metricSource": "youtube-rss-feed",
+          "sourceChannelId": "UC4ZeOQgnXOzctbLZE4gW5fg",
+          "sourceChannel": "득템상회",
+          "evidence": "youtube-search-channel-rss-upload-date-rss-view-count-shorts-url"
+        },
+        {
+          "rejected": true,
+          "id": "RgCmDeZl5Vg",
+          "title": "세탁할 때마다 고민하지 마세요 #패딩세탁 #세탁세제추천 #캡슐세제",
+          "ch": "살림넬라 Nella",
+          "views": 267,
+          "up": "2026-10-27",
+          "reason": "views<30000,daily<10000;fresh-old>10d,fresh-views<1000,fresh-daily<300",
+          "dailyViews": 21,
+          "sourceQuery": "살림템 추천 쇼츠",
+          "metricSource": "youtube-rss-feed",
+          "sourceChannelId": "UCICOQJoBAGYhUh9FRg0VNEw",
+          "sourceChannel": "살림넬라 Nella",
+          "evidence": "youtube-search-channel-rss-upload-date-rss-view-count-shorts-url"
+        },
+        {
+          "rejected": true,
+          "id": "ZKZZTuOcUoA",
+          "title": "매일 쓰는 쿠팡 살림템 2가지 #욕실템 #추천템",
+          "ch": "살림넬라 Nella",
+          "views": 1847,
+          "up": "2026-10-17",
+          "reason": "views<30000,daily<10000;fresh-old>10d,fresh-daily<300",
+          "dailyViews": 80,
+          "sourceQuery": "살림템 추천 쇼츠",
+          "metricSource": "youtube-rss-feed",
+          "sourceChannelId": "UCICOQJoBAGYhUh9FRg0VNEw",
+          "sourceChannel": "살림넬라 Nella",
           "evidence": "youtube-search-channel-rss-upload-date-rss-view-count-shorts-url"
         },
         {
@@ -228,78 +408,33 @@
         },
         {
           "rejected": true,
-          "id": "YFZ6YekNgDc",
-          "title": "코스트코 물건 싹쓸이 해서 월 7천 남겨먹는 여자 #부업추천",
-          "ch": "우리동네사장",
-          "views": 2404,
-          "up": "2026-10-23",
-          "reason": "views<30000,daily<10000;fresh-old>10d,fresh-daily<300",
-          "dailyViews": 150,
+          "id": "0Z-z4--7P5w",
+          "title": "유튜브 쇼츠 추천 변경: 재업로드보다 내 해석을 더한 원본이 우선",
+          "ch": "어비 GPE | 유튜브 알고리즘·정책 UhBee",
+          "views": 922,
+          "up": "2026-10-06",
+          "reason": "views<30000,daily<10000;fresh-old>10d,fresh-views<1000,fresh-daily<300",
+          "dailyViews": 27,
           "sourceQuery": "한국 쇼츠 쇼핑 추천",
           "metricSource": "youtube-rss-feed",
-          "sourceChannelId": "UCN5PvV8tCLgZFwKTeod1VAw",
-          "sourceChannel": "우리동네사장",
+          "sourceChannelId": "UC_iVluVTBSlRpr4wtyVdhEQ",
+          "sourceChannel": "어비 GPE | 유튜브 알고리즘·정책 UhBee",
           "evidence": "youtube-search-channel-rss-upload-date-rss-view-count-shorts-url"
         },
         {
           "rejected": true,
-          "id": "V6TUWzJNdz0",
-          "title": "주방 수납! 버리는 공간없는 효율 끝판왕",
-          "ch": "디자인용테리어",
-          "views": 799,
-          "up": "2026-11-05",
+          "id": "6EQmXEQ8mJM",
+          "title": "청소가 이렇게 편해진다고? 😲 무선 물걸레 청소기 꿀템! #shorts",
+          "ch": "득템상회",
+          "views": 10,
+          "up": "2026-10-30",
           "reason": "views<30000,daily<10000;fresh-views<1000,fresh-daily<300",
-          "dailyViews": 266,
-          "sourceQuery": "인테리어 소품 추천 쇼츠",
-          "metricSource": "youtube-rss-feed",
-          "sourceChannelId": "UCTzn6LZrPaiA81ZAog_-DZA",
-          "sourceChannel": "디자인용테리어",
-          "evidence": "youtube-search-channel-rss-upload-date-rss-view-count-shorts-url"
-        },
-        {
-          "rejected": true,
-          "id": "vfNQKniRE8o",
-          "title": "아내가 극찬한 완벽한 주방 구조",
-          "ch": "디자인용테리어",
-          "views": 1231,
-          "up": "2026-10-27",
-          "reason": "views<30000,daily<10000;fresh-old>10d,fresh-daily<300",
-          "dailyViews": 103,
-          "sourceQuery": "인테리어 소품 추천 쇼츠",
-          "metricSource": "youtube-rss-feed",
-          "sourceChannelId": "UCTzn6LZrPaiA81ZAog_-DZA",
-          "sourceChannel": "디자인용테리어",
-          "evidence": "youtube-search-channel-rss-upload-date-rss-view-count-shorts-url"
-        },
-        {
-          "rejected": true,
-          "id": "2atZ2qWZjFY",
-          "title": "손님들 올 때마다 감탄하는 거실 인테리어",
-          "ch": "디자인용테리어",
-          "views": 1294,
-          "up": "2026-10-22",
-          "reason": "views<30000,daily<10000;fresh-old>10d,fresh-daily<300",
-          "dailyViews": 76,
-          "sourceQuery": "인테리어 소품 추천 쇼츠",
-          "metricSource": "youtube-rss-feed",
-          "sourceChannelId": "UCTzn6LZrPaiA81ZAog_-DZA",
-          "sourceChannel": "디자인용테리어",
-          "evidence": "youtube-search-channel-rss-upload-date-rss-view-count-shorts-url"
-        },
-        {
-          "rejected": true,
-          "id": "AB3bpgdvoeo",
-          "title": "답답했던 주방의 소름 돋는 대반전",
-          "ch": "디자인용테리어",
-          "views": 1517,
-          "up": "2026-10-20",
-          "reason": "views<30000,daily<10000;fresh-old>10d,fresh-daily<300",
-          "dailyViews": 80,
-          "sourceQuery": "인테리어 소품 추천 쇼츠",
-          "metricSource": "youtube-rss-feed",
-          "sourceChannelId": "UCTzn6LZrPaiA81ZAog_-DZA",
-          "sourceChannel": "디자인용테리어",
-          "evidence": "youtube-search-channel-rss-upload-date-rss-view-count-shorts-url"
+          "dailyViews": 1,
+          "sourceQuery": "살림템 추천 쇼츠",
+          "metricSource": "https://yt.chocolatemoo53.com",
+          "sourceChannelId": "UC4ZeOQgnXOzctbLZE4gW5fg",
+          "sourceChannel": "득템상회",
+          "evidence": "youtube-search-channel-rss-public-metadata"
         },
         {
           "rejected": true,
@@ -318,168 +453,33 @@
         },
         {
           "rejected": true,
-          "id": "UNY1XjqZvqg",
-          "title": "🫧예쁘고 센스있는 집들이 선물 추천!!🧼",
-          "ch": "임쁨임",
-          "views": 553,
+          "id": "V6TUWzJNdz0",
+          "title": "주방 수납! 버리는 공간없는 효율 끝판왕",
+          "ch": "디자인용테리어",
+          "views": 805,
           "up": "2026-11-05",
           "reason": "views<30000,daily<10000;fresh-views<1000,fresh-daily<300",
-          "dailyViews": 184,
+          "dailyViews": 201,
           "sourceQuery": "인테리어 소품 추천 쇼츠",
           "metricSource": "youtube-rss-feed",
-          "sourceChannelId": "UCSMXHb6eaO1kuURCBAzRO0g",
-          "sourceChannel": "임쁨임",
+          "sourceChannelId": "UCTzn6LZrPaiA81ZAog_-DZA",
+          "sourceChannel": "디자인용테리어",
           "evidence": "youtube-search-channel-rss-upload-date-rss-view-count-shorts-url"
         },
         {
           "rejected": true,
-          "id": "RNPHU5LI1sc",
-          "title": "튼튼하고 예쁜 수납력 좋은 유리파스타병 추천!!",
-          "ch": "임쁨임",
-          "views": 354,
-          "up": "2026-11-02",
-          "reason": "views<30000,daily<10000;fresh-views<1000,fresh-daily<300",
-          "dailyViews": 59,
+          "id": "vfNQKniRE8o",
+          "title": "아내가 극찬한 완벽한 주방 구조",
+          "ch": "디자인용테리어",
+          "views": 1233,
+          "up": "2026-10-27",
+          "reason": "views<30000,daily<10000;fresh-old>10d,fresh-daily<300",
+          "dailyViews": 95,
           "sourceQuery": "인테리어 소품 추천 쇼츠",
           "metricSource": "youtube-rss-feed",
-          "sourceChannelId": "UCSMXHb6eaO1kuURCBAzRO0g",
-          "sourceChannel": "임쁨임",
+          "sourceChannelId": "UCTzn6LZrPaiA81ZAog_-DZA",
+          "sourceChannel": "디자인용테리어",
           "evidence": "youtube-search-channel-rss-upload-date-rss-view-count-shorts-url"
-        },
-        {
-          "rejected": true,
-          "id": "4vAsE-eNHA4",
-          "title": "자취10년차가 추천하는 관리 편한 주방용품 추천!!",
-          "ch": "임쁨임",
-          "views": 964,
-          "up": "2026-10-29",
-          "reason": "views<30000,daily<10000;fresh-views<1000,fresh-daily<300",
-          "dailyViews": 96,
-          "sourceQuery": "인테리어 소품 추천 쇼츠",
-          "metricSource": "youtube-rss-feed",
-          "sourceChannelId": "UCSMXHb6eaO1kuURCBAzRO0g",
-          "sourceChannel": "임쁨임",
-          "evidence": "youtube-search-channel-rss-upload-date-rss-view-count-shorts-url"
-        },
-        {
-          "rejected": true,
-          "id": "c1j3HIGlC8w",
-          "title": "코스트코 가면 이건 꼭 담아오세요!! 가성비 좋은 베이커리 추천!!",
-          "ch": "임쁨임",
-          "views": 1296,
-          "up": "2026-10-28",
-          "reason": "views<30000,daily<10000;fresh-old>10d,fresh-daily<300",
-          "dailyViews": 118,
-          "sourceQuery": "인테리어 소품 추천 쇼츠",
-          "metricSource": "youtube-rss-feed",
-          "sourceChannelId": "UCSMXHb6eaO1kuURCBAzRO0g",
-          "sourceChannel": "임쁨임",
-          "evidence": "youtube-search-channel-rss-upload-date-rss-view-count-shorts-url"
-        },
-        {
-          "rejected": true,
-          "id": "yL8EYy2Bhww",
-          "title": "미슐랭 2스타 정식당 먹방 🇰🇷 문어부터 한우 갈비까지! 3가지 요리 리뷰 🔥 #Shorts",
-          "ch": "Muncora Mukbang",
-          "views": 62,
-          "up": "2026-11-03",
-          "reason": "views<30000,daily<10000;fresh-views<1000,fresh-daily<300",
-          "dailyViews": 12,
-          "sourceQuery": "먹거리 추천 쇼츠",
-          "metricSource": "youtube-rss-feed",
-          "sourceChannelId": "UCSfdrsPDD2TkjrK2hhrEWtQ",
-          "sourceChannel": "Muncora Mukbang",
-          "evidence": "youtube-search-channel-rss-upload-date-rss-view-count-shorts-url"
-        },
-        {
-          "rejected": true,
-          "id": "0FXvv4aZEJI",
-          "title": "미슐랭 3스타 밍글스에서 즐기는 특별한 한식 먹방 🇰🇷🍽️ | 3가지 요리 리뷰 #Shorts",
-          "ch": "Muncora Mukbang",
-          "views": 307,
-          "up": "2026-10-31",
-          "reason": "views<30000,daily<10000;fresh-views<1000,fresh-daily<300",
-          "dailyViews": 38,
-          "sourceQuery": "먹거리 추천 쇼츠",
-          "metricSource": "youtube-rss-feed",
-          "sourceChannelId": "UCSfdrsPDD2TkjrK2hhrEWtQ",
-          "sourceChannel": "Muncora Mukbang",
-          "evidence": "youtube-search-channel-rss-upload-date-rss-view-count-shorts-url"
-        },
-        {
-          "rejected": true,
-          "id": "VtU3b5R3W7o",
-          "title": "왜 아무 일도 안일어 날까요? 당연히 그쪽 비제이들이 구라 쳐서 때문이다 #추천 #토크 #명언 #행복 #소통",
-          "ch": "김똥뺌",
-          "views": 1019,
-          "up": "2026-10-26",
-          "reason": "views<30000,daily<10000;fresh-old>10d,fresh-daily<300",
-          "dailyViews": 78,
-          "sourceQuery": "먹거리 추천 쇼츠",
-          "metricSource": "https://yt.chocolatemoo53.com",
-          "sourceChannelId": "UCcolydb_lTaxieVVGqc5yEg",
-          "sourceChannel": "김똥뺌",
-          "evidence": "youtube-search-channel-rss-public-metadata"
-        },
-        {
-          "rejected": true,
-          "id": "JFBg_4zS7S0",
-          "title": "맞는말만 하내 시청자들이 #추천 #쇼츠 #shorts #토크 #명언 #행복",
-          "ch": "김똥뺌",
-          "views": 3774,
-          "up": "2026-10-08",
-          "reason": "views<30000,daily<10000;fresh-old>10d,fresh-daily<300",
-          "dailyViews": 122,
-          "sourceQuery": "먹거리 추천 쇼츠",
-          "metricSource": "youtube-rss-feed",
-          "sourceChannelId": "UCcolydb_lTaxieVVGqc5yEg",
-          "sourceChannel": "김똥뺌",
-          "evidence": "youtube-search-channel-rss-upload-date-rss-view-count-shorts-url"
-        },
-        {
-          "rejected": true,
-          "id": "W_f3OJ6eD9k",
-          "title": "염병 썰 #추천 #명언 #토크 #행복",
-          "ch": "김똥뺌",
-          "views": 1017,
-          "up": "2026-10-20",
-          "reason": "views<30000,daily<10000;fresh-old>10d,fresh-daily<300",
-          "dailyViews": 54,
-          "sourceQuery": "먹거리 추천 쇼츠",
-          "metricSource": "https://yt.chocolatemoo53.com",
-          "sourceChannelId": "UCcolydb_lTaxieVVGqc5yEg",
-          "sourceChannel": "김똥뺌",
-          "evidence": "youtube-search-channel-rss-public-metadata"
-        },
-        {
-          "rejected": true,
-          "id": "O5E32RQynp4",
-          "title": "저는 게이가 아니에요 남자 싫어 합니다 그리고 여캠 안만나고요 자만추에요 저는 #추천 #토크 #명언 #행복",
-          "ch": "김똥뺌",
-          "views": 1116,
-          "up": "2026-10-19",
-          "reason": "views<30000,daily<10000;fresh-old>10d,fresh-daily<300",
-          "dailyViews": 56,
-          "sourceQuery": "먹거리 추천 쇼츠",
-          "metricSource": "https://yt.chocolatemoo53.com",
-          "sourceChannelId": "UCcolydb_lTaxieVVGqc5yEg",
-          "sourceChannel": "김똥뺌",
-          "evidence": "youtube-search-channel-rss-public-metadata"
-        },
-        {
-          "rejected": true,
-          "id": "tOvenkNMGjA",
-          "title": "한번이라도 게스트 초대 하거나 나간 사람 안봐도 된다고 #추천 #토크 #명언 #행복 #소통",
-          "ch": "김똥뺌",
-          "views": 1014,
-          "up": "2026-10-22",
-          "reason": "views<30000,daily<10000;fresh-old>10d,fresh-daily<300",
-          "dailyViews": 60,
-          "sourceQuery": "먹거리 추천 쇼츠",
-          "metricSource": "https://yt.chocolatemoo53.com",
-          "sourceChannelId": "UCcolydb_lTaxieVVGqc5yEg",
-          "sourceChannel": "김똥뺌",
-          "evidence": "youtube-search-channel-rss-public-metadata"
         }
       ],
       "errors": [],
@@ -487,22 +487,27 @@
         "channelsFound": 80,
         "feedsChecked": 80,
         "feedErrors": [],
-        "recentCandidates": 143,
-        "detailChecked": 84,
-        "detailErrorCount": 87,
+        "recentCandidates": 142,
+        "detailChecked": 58,
+        "detailErrorCount": 61,
         "detailErrors": [
           {
-            "id": "wXuf2a0zTP8",
+            "id": "CPjfesP5lTo",
             "source": "https://inv.thepixora.com",
             "message": "Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
           },
           {
-            "id": "LL5qru1V6Us",
+            "id": "6EQmXEQ8mJM",
             "source": "https://inv.thepixora.com",
             "message": "Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
           },
           {
-            "id": "oh4o28as9xg",
+            "id": "PiPMvUmB4RI",
+            "source": "https://inv.thepixora.com",
+            "message": "Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
+          },
+          {
+            "id": "T8ZARuYiVtE",
             "source": "https://inv.thepixora.com",
             "message": "Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
           },
@@ -512,32 +517,17 @@
             "message": "Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
           },
           {
+            "id": "wXuf2a0zTP8",
+            "source": "https://inv.thepixora.com",
+            "message": "Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
+          },
+          {
             "id": "6F-QFc_SASM",
             "source": "https://inv.thepixora.com",
             "message": "Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
           },
           {
-            "id": "ylp26tQTsFc",
-            "source": "https://inv.thepixora.com",
-            "message": "Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
-          },
-          {
-            "id": "CPjfesP5lTo",
-            "source": "https://inv.thepixora.com",
-            "message": "Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
-          },
-          {
-            "id": "Wei9unxwc70",
-            "source": "https://inv.thepixora.com",
-            "message": "Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
-          },
-          {
-            "id": "aH4ClDBOwwU",
-            "source": "https://inv.thepixora.com",
-            "message": "Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
-          },
-          {
-            "id": "A1JWD2JKQxE",
+            "id": "tyTSN9V2UP0",
             "source": "https://inv.thepixora.com",
             "message": "Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
           },
@@ -547,7 +537,7 @@
             "message": "Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
           },
           {
-            "id": "_zvyxPx1vDM",
+            "id": "iRvoPgncdzQ",
             "source": "https://inv.thepixora.com",
             "message": "Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
           },
@@ -557,17 +547,62 @@
             "message": "Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
           },
           {
-            "id": "iRvoPgncdzQ",
-            "source": "https://inv.thepixora.com",
-            "message": "Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
-          },
-          {
             "id": "ok8pp5Ialnw",
             "source": "https://inv.thepixora.com",
             "message": "Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
           },
           {
-            "id": "cl4mt_2Auhw",
+            "id": "J1K_EGGZvv0",
+            "source": "https://inv.thepixora.com",
+            "message": "Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
+          },
+          {
+            "id": "PwpspUedJDE",
+            "source": "https://inv.thepixora.com",
+            "message": "Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
+          },
+          {
+            "id": "2p1Av5wHSS0",
+            "source": "https://inv.thepixora.com",
+            "message": "Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
+          },
+          {
+            "id": "na_9zrDUvRI",
+            "source": "https://inv.thepixora.com",
+            "message": "Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
+          },
+          {
+            "id": "Id8x2mYzTOs",
+            "source": "https://inv.thepixora.com",
+            "message": "Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
+          },
+          {
+            "id": "EcVrUPEfDEA",
+            "source": "https://inv.thepixora.com",
+            "message": "Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
+          },
+          {
+            "id": "V--8U9CkLV0",
+            "source": "https://inv.thepixora.com",
+            "message": "Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
+          },
+          {
+            "id": "MRWPTlbt9Nk",
+            "source": "https://inv.thepixora.com",
+            "message": "Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
+          },
+          {
+            "id": "na_9zrDUvRI",
+            "source": "https://yt.chocolatemoo53.com",
+            "message": "HTTP 500"
+          },
+          {
+            "id": "qUWAHGH214c",
+            "source": "https://inv.thepixora.com",
+            "message": "Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
+          },
+          {
+            "id": "tfmyoCCekJI",
             "source": "https://inv.thepixora.com",
             "message": "Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
           },
@@ -582,6 +617,11 @@
             "message": "Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
           },
           {
+            "id": "na_9zrDUvRI",
+            "source": "yt-dlp-video-detail",
+            "message": "ERROR: [youtube] na_9zrDUvRI: Sign in to confirm you’re not a bot. This helps protect our community. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+          },
+          {
             "id": "OLMp0QqGkzk",
             "source": "https://inv.thepixora.com",
             "message": "Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
@@ -592,12 +632,17 @@
             "message": "Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
           },
           {
-            "id": "byCZbk9ohVo",
+            "id": "hlrn1in90zI",
             "source": "https://inv.thepixora.com",
             "message": "Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
           },
           {
-            "id": "GgejnGw3xKo",
+            "id": "DRbj9l1V8Q8",
+            "source": "https://inv.thepixora.com",
+            "message": "Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
+          },
+          {
+            "id": "RatCEt6vC5k",
             "source": "https://inv.thepixora.com",
             "message": "Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
           },
@@ -607,57 +652,32 @@
             "message": "Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
           },
           {
-            "id": "XC_Hxb3wSkc",
+            "id": "byCZbk9ohVo",
             "source": "https://inv.thepixora.com",
             "message": "Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
           },
           {
-            "id": "DmZsipHzfng",
+            "id": "yhJQfeXMhdI",
             "source": "https://inv.thepixora.com",
             "message": "Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
           },
           {
-            "id": "zRLTcSxb0g4",
+            "id": "qifi7hbtKqc",
             "source": "https://inv.thepixora.com",
             "message": "Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
           },
           {
-            "id": "XC_Hxb3wSkc",
-            "source": "https://yt.chocolatemoo53.com",
-            "message": "HTTP 500"
-          },
-          {
-            "id": "VtU3b5R3W7o",
+            "id": "uquAbO8C8JM",
             "source": "https://inv.thepixora.com",
             "message": "Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
           },
           {
-            "id": "tOvenkNMGjA",
+            "id": "RA3xYHHNCLM",
             "source": "https://inv.thepixora.com",
             "message": "Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
           },
           {
-            "id": "W_f3OJ6eD9k",
-            "source": "https://inv.thepixora.com",
-            "message": "Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
-          },
-          {
-            "id": "_0deSGkgrFk",
-            "source": "https://inv.thepixora.com",
-            "message": "Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
-          },
-          {
-            "id": "O5E32RQynp4",
-            "source": "https://inv.thepixora.com",
-            "message": "Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
-          },
-          {
-            "id": "p2Ex-z1mat0",
-            "source": "https://inv.thepixora.com",
-            "message": "Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
-          },
-          {
-            "id": "mNgRo7bWriA",
+            "id": "JnHVW_3JOJo",
             "source": "https://inv.thepixora.com",
             "message": "Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
           },
@@ -667,7 +687,12 @@
             "message": "Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
           },
           {
-            "id": "RPdt9qEE63Q",
+            "id": "DBm-BNcuZu0",
+            "source": "https://inv.thepixora.com",
+            "message": "Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
+          },
+          {
+            "id": "mmOiNuNjEAM",
             "source": "https://inv.thepixora.com",
             "message": "Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
           },
@@ -683,56 +708,6 @@
           },
           {
             "id": "DmOjsyVcjVQ",
-            "source": "https://inv.thepixora.com",
-            "message": "Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
-          },
-          {
-            "id": "mmOiNuNjEAM",
-            "source": "https://inv.thepixora.com",
-            "message": "Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
-          },
-          {
-            "id": "DBm-BNcuZu0",
-            "source": "https://inv.thepixora.com",
-            "message": "Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
-          },
-          {
-            "id": "iLrgqIAl3DQ",
-            "source": "https://inv.thepixora.com",
-            "message": "Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
-          },
-          {
-            "id": "zK0_NdrnA0g",
-            "source": "https://inv.thepixora.com",
-            "message": "Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
-          },
-          {
-            "id": "UZs2NK4ZNsE",
-            "source": "https://inv.thepixora.com",
-            "message": "Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
-          },
-          {
-            "id": "buQDSlmMIPY",
-            "source": "https://inv.thepixora.com",
-            "message": "Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
-          },
-          {
-            "id": "XC_Hxb3wSkc",
-            "source": "yt-dlp-video-detail",
-            "message": "ERROR: [youtube] XC_Hxb3wSkc: Sign in to confirm your age. This video may be inappropriate for some users. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
-          },
-          {
-            "id": "_C5mdeRXNlc",
-            "source": "https://inv.thepixora.com",
-            "message": "Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
-          },
-          {
-            "id": "LFfxSg1kvCA",
-            "source": "https://inv.thepixora.com",
-            "message": "Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
-          },
-          {
-            "id": "sID_Ny1RqWQ",
             "source": "https://inv.thepixora.com",
             "message": "Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
           },
@@ -762,170 +737,280 @@
             "message": "Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
           },
           {
-            "id": "perXIriX36A",
+            "id": "hGeif1uRqYE",
             "source": "https://inv.thepixora.com",
             "message": "Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
           },
           {
-            "id": "uOofon0f9So",
+            "id": "7dbsM4bKpXg",
             "source": "https://inv.thepixora.com",
             "message": "Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
           },
           {
-            "id": "eFZZdGLhamU",
+            "id": "xVlf1ntx6h0",
             "source": "https://inv.thepixora.com",
             "message": "Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
           },
           {
-            "id": "isM2ZRA3V3M",
+            "id": "AsL042-FnRw",
             "source": "https://inv.thepixora.com",
             "message": "Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
           },
           {
-            "id": "DSkLBpUhnsM",
+            "id": "yj6jkdioKuQ",
             "source": "https://inv.thepixora.com",
             "message": "Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
           },
           {
-            "id": "LnnCA1dj53A",
+            "id": "_BfHr1h3yh8",
             "source": "https://inv.thepixora.com",
             "message": "Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
           },
           {
-            "id": "MT72RoM1Dzg",
+            "id": "z784RfFZkao",
             "source": "https://inv.thepixora.com",
             "message": "Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
           },
           {
-            "id": "2h35xW9oqB4",
+            "id": "UZs2NK4ZNsE",
             "source": "https://inv.thepixora.com",
             "message": "Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
           },
           {
-            "id": "d-p_axycEoQ",
+            "id": "buQDSlmMIPY",
             "source": "https://inv.thepixora.com",
             "message": "Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
           },
           {
-            "id": "fSnGC-NmDVE",
+            "id": "_C5mdeRXNlc",
             "source": "https://inv.thepixora.com",
             "message": "Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
           },
           {
-            "id": "VieodGK_j8w",
+            "id": "LFfxSg1kvCA",
             "source": "https://inv.thepixora.com",
             "message": "Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
           },
           {
-            "id": "318u5V5SD90",
-            "source": "https://inv.thepixora.com",
-            "message": "Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
-          },
-          {
-            "id": "riv7kr-N_N8",
-            "source": "https://inv.thepixora.com",
-            "message": "Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
-          },
-          {
-            "id": "i5oz3Kq6w60",
-            "source": "https://inv.thepixora.com",
-            "message": "Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
-          },
-          {
-            "id": "pTxoVSvoOOQ",
-            "source": "https://inv.thepixora.com",
-            "message": "Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
-          },
-          {
-            "id": "DDDk0uxynoI",
-            "source": "https://inv.thepixora.com",
-            "message": "Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
-          },
-          {
-            "id": "ZFkhXg9bl2w",
-            "source": "https://inv.thepixora.com",
-            "message": "Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
-          },
-          {
-            "id": "IdkCfjjX430",
-            "source": "https://inv.thepixora.com",
-            "message": "Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
-          },
-          {
-            "id": "znODpPbcIbw",
-            "source": "https://inv.thepixora.com",
-            "message": "Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
-          },
-          {
-            "id": "1IN92OARA0A",
-            "source": "https://inv.thepixora.com",
-            "message": "Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
-          },
-          {
-            "id": "d7bx45p89Gc",
-            "source": "https://inv.thepixora.com",
-            "message": "Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
-          },
-          {
-            "id": "YoEk7WDA6Dg",
-            "source": "https://inv.thepixora.com",
-            "message": "Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
-          },
-          {
-            "id": "nH85-qW0QaU",
-            "source": "https://inv.thepixora.com",
-            "message": "Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
-          },
-          {
-            "id": "9iw0tYqTWbw",
-            "source": "https://inv.thepixora.com",
-            "message": "Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
-          },
-          {
-            "id": "incWuv82Q0g",
-            "source": "https://inv.thepixora.com",
-            "message": "Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
-          },
-          {
-            "id": "zNmf7OX8uIs",
+            "id": "sID_Ny1RqWQ",
             "source": "https://inv.thepixora.com",
             "message": "Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
           }
         ],
-        "rssFallbackChecked": 58,
-        "rssFallbackAccepted": 33,
-        "accepted": 33,
-        "trendAccepted": 11,
-        "freshAccepted": 22,
+        "rssFallbackChecked": 83,
+        "rssFallbackAccepted": 52,
+        "accepted": 45,
+        "trendAccepted": 12,
+        "freshAccepted": 33,
         "rejected": [
           {
             "rejected": true,
-            "id": "B66DkXsl2DU",
-            "title": "갑자기 밥맛이 떨어졌다면 밥솥을 뒤집어 보세요. 1초만에 새 것 만들어주는 전기밥솥 청소 꿀팁",
-            "ch": "슬이뷰",
-            "views": 6598,
-            "up": "2026-10-28",
+            "id": "ILENWSVnGvc",
+            "title": "주방 일회용품 싹 없애주는 실리콘 지퍼백 활용법 6가지 #살림꿀템 #살림템 #실리콘백",
+            "ch": "살림로그_살림을 기록하다.",
+            "views": 16394,
+            "up": "2026-10-29",
             "reason": "views<30000,daily<10000;fresh-old>10d",
-            "dailyViews": 600,
+            "dailyViews": 1490,
             "sourceQuery": "다이소 추천 쇼츠",
             "metricSource": "youtube-rss-feed",
-            "sourceChannelId": "UC4RUS_IZjPOthrSel6zIT5A",
-            "sourceChannel": "슬이뷰",
+            "sourceChannelId": "UCx8uFUihkZnQRU6lVJXs7Dg",
+            "sourceChannel": "살림로그_살림을 기록하다.",
             "evidence": "youtube-search-channel-rss-upload-date-rss-view-count-shorts-url"
           },
           {
             "rejected": true,
-            "id": "XiSZ9VAA-2E",
-            "title": "올영에서 비싼값 하는 애들입니다..🔥(유리알 피부됨) #추천 #올리브영",
-            "ch": "제이미포유 Jaymeeforyou",
-            "views": 8158,
-            "up": "2026-10-18",
+            "id": "fZ4DXiGRgCk",
+            "title": "좋아서 정착한 관리 꿀템 3가지!",
+            "ch": "꼼수살림",
+            "views": 21703,
+            "up": "2026-10-23",
             "reason": "views<30000,daily<10000;fresh-old>10d",
-            "dailyViews": 388,
+            "dailyViews": 1277,
             "sourceQuery": "다이소 추천 쇼츠",
             "metricSource": "youtube-rss-feed",
-            "sourceChannelId": "UClJNgnMWzvEzJuLcpH7m4vQ",
-            "sourceChannel": "제이미포유 Jaymeeforyou",
+            "sourceChannelId": "UCj3LfARKs2hmDuIHhPYIO2A",
+            "sourceChannel": "꼼수살림",
+            "evidence": "youtube-search-channel-rss-upload-date-rss-view-count-shorts-url"
+          },
+          {
+            "rejected": true,
+            "id": "VIw2SgL-C6Y",
+            "title": "478번 온열빨래건조대 접이식는 #두배로꿀팁 #온열빨래건조대 #빨래건조대 #살림꿀템 #shorts",
+            "ch": "두배로꿀팁",
+            "views": 209,
+            "up": "2026-11-05",
+            "reason": "views<30000,daily<10000;fresh-views<1000,fresh-daily<300",
+            "dailyViews": 52,
+            "sourceQuery": "살림템 추천 쇼츠",
+            "metricSource": "youtube-rss-feed",
+            "sourceChannelId": "UCod3ACfa8UqqTuE10-MRnDA",
+            "sourceChannel": "두배로꿀팁",
+            "evidence": "youtube-search-channel-rss-upload-date-rss-view-count-shorts-url"
+          },
+          {
+            "rejected": true,
+            "id": "O9pFMM928Rw",
+            "title": "371번 냄비 탈부착손잡이는 #두배로꿀팁 #냄비손잡이 #탈부착손잡이 #살림꿀템 #shorts",
+            "ch": "두배로꿀팁",
+            "views": 353,
+            "up": "2026-11-02",
+            "reason": "views<30000,daily<10000;fresh-views<1000,fresh-daily<300",
+            "dailyViews": 50,
+            "sourceQuery": "살림템 추천 쇼츠",
+            "metricSource": "youtube-rss-feed",
+            "sourceChannelId": "UCod3ACfa8UqqTuE10-MRnDA",
+            "sourceChannel": "두배로꿀팁",
+            "evidence": "youtube-search-channel-rss-upload-date-rss-view-count-shorts-url"
+          },
+          {
+            "rejected": true,
+            "id": "C6vOiJEQ7PA",
+            "title": "321번 기름응고제는 #두배로꿀팁 #기름응고제 #폐기름버리는법 #살림꿀템 #shorts",
+            "ch": "두배로꿀팁",
+            "views": 963,
+            "up": "2026-10-30",
+            "reason": "views<30000,daily<10000;fresh-views<1000,fresh-daily<300",
+            "dailyViews": 96,
+            "sourceQuery": "살림템 추천 쇼츠",
+            "metricSource": "youtube-rss-feed",
+            "sourceChannelId": "UCod3ACfa8UqqTuE10-MRnDA",
+            "sourceChannel": "두배로꿀팁",
+            "evidence": "youtube-search-channel-rss-upload-date-rss-view-count-shorts-url"
+          },
+          {
+            "rejected": true,
+            "id": "9LTSvLSZgtk",
+            "title": "집 안 공간을 나누고 싶을 때 #가벽파티션 #공간분리 #인테리어소품 #집꾸미기 #두배로꿀팁",
+            "ch": "두배로꿀팁",
+            "views": 1358,
+            "up": "2026-10-27",
+            "reason": "views<30000,daily<10000;fresh-old>10d,fresh-daily<300",
+            "dailyViews": 104,
+            "sourceQuery": "살림템 추천 쇼츠",
+            "metricSource": "youtube-rss-feed",
+            "sourceChannelId": "UCod3ACfa8UqqTuE10-MRnDA",
+            "sourceChannel": "두배로꿀팁",
+            "evidence": "youtube-search-channel-rss-upload-date-rss-view-count-shorts-url"
+          },
+          {
+            "rejected": true,
+            "id": "FtT2ud2aHvk",
+            "title": "현관으로 들어오는 찬바람이 고민이라면 #방풍비닐커튼 #현관바람막이 #방한커튼 #겨울철필수템 #소문난홈",
+            "ch": "소문난홈",
+            "views": 292,
+            "up": "2026-11-06",
+            "reason": "views<30000,daily<10000;fresh-views<1000,fresh-daily<300",
+            "dailyViews": 97,
+            "sourceQuery": "살림템 추천 쇼츠",
+            "metricSource": "youtube-rss-feed",
+            "sourceChannelId": "UCXp1RmvMYbzH1j1pn8HfMZw",
+            "sourceChannel": "소문난홈",
+            "evidence": "youtube-search-channel-rss-upload-date-rss-view-count-shorts-url"
+          },
+          {
+            "rejected": true,
+            "id": "H5K1PIpHEa8",
+            "title": "120번 침대주걱는 #소문난홈 #침대주걱 #침구정리 #살림꿀템 #shorts",
+            "ch": "소문난홈",
+            "views": 679,
+            "up": "2026-10-30",
+            "reason": "views<30000,daily<10000;fresh-views<1000,fresh-daily<300",
+            "dailyViews": 68,
+            "sourceQuery": "살림템 추천 쇼츠",
+            "metricSource": "youtube-rss-feed",
+            "sourceChannelId": "UCXp1RmvMYbzH1j1pn8HfMZw",
+            "sourceChannel": "소문난홈",
+            "evidence": "youtube-search-channel-rss-upload-date-rss-view-count-shorts-url"
+          },
+          {
+            "rejected": true,
+            "id": "Iv3o_o5dcBc",
+            "title": "266번 다용도 길이조절 수납는 #소문난홈 #길이조절수납 #서랍정리 #살림꿀템 #shorts",
+            "ch": "소문난홈",
+            "views": 1201,
+            "up": "2026-10-29",
+            "reason": "views<30000,daily<10000;fresh-old>10d,fresh-daily<300",
+            "dailyViews": 109,
+            "sourceQuery": "살림템 추천 쇼츠",
+            "metricSource": "youtube-rss-feed",
+            "sourceChannelId": "UCXp1RmvMYbzH1j1pn8HfMZw",
+            "sourceChannel": "소문난홈",
+            "evidence": "youtube-search-channel-rss-upload-date-rss-view-count-shorts-url"
+          },
+          {
+            "rejected": true,
+            "id": "jDnuDDgGiEY",
+            "title": "세탁기 좁은 틈새 청소할 때 #세탁기청소 #틈새청소솔 #청소용품 #살림꿀팁 #소문난홈",
+            "ch": "소문난홈",
+            "views": 1205,
+            "up": "2026-10-27",
+            "reason": "views<30000,daily<10000;fresh-old>10d,fresh-daily<300",
+            "dailyViews": 93,
+            "sourceQuery": "살림템 추천 쇼츠",
+            "metricSource": "youtube-rss-feed",
+            "sourceChannelId": "UCXp1RmvMYbzH1j1pn8HfMZw",
+            "sourceChannel": "소문난홈",
+            "evidence": "youtube-search-channel-rss-upload-date-rss-view-count-shorts-url"
+          },
+          {
+            "rejected": true,
+            "id": "s84C7XFIp6o",
+            "title": "주방 수납공간이 더 필요할 때 #냉장고형수납장 #수납캐비닛 #주방정리 #공간활용 #소문난홈",
+            "ch": "소문난홈",
+            "views": 15,
+            "up": "2026-10-26",
+            "reason": "views<30000,daily<10000;fresh-old>10d,fresh-views<1000,fresh-daily<300",
+            "dailyViews": 1,
+            "sourceQuery": "살림템 추천 쇼츠",
+            "metricSource": "youtube-rss-feed",
+            "sourceChannelId": "UCXp1RmvMYbzH1j1pn8HfMZw",
+            "sourceChannel": "소문난홈",
+            "evidence": "youtube-search-channel-rss-upload-date-rss-view-count-shorts-url"
+          },
+          {
+            "rejected": true,
+            "id": "3BvV25y-wE4",
+            "title": "[광고] 수압 약해서 답답하셨나요? 🚿 필터 샤워기 추천 #쇼츠 #득템상회",
+            "ch": "득템상회",
+            "views": 17,
+            "up": "2026-10-29",
+            "reason": "views<30000,daily<10000;fresh-old>10d,fresh-views<1000,fresh-daily<300",
+            "dailyViews": 2,
+            "sourceQuery": "살림템 추천 쇼츠",
+            "metricSource": "youtube-rss-feed",
+            "sourceChannelId": "UC4ZeOQgnXOzctbLZE4gW5fg",
+            "sourceChannel": "득템상회",
+            "evidence": "youtube-search-channel-rss-upload-date-rss-view-count-shorts-url"
+          },
+          {
+            "rejected": true,
+            "id": "RgCmDeZl5Vg",
+            "title": "세탁할 때마다 고민하지 마세요 #패딩세탁 #세탁세제추천 #캡슐세제",
+            "ch": "살림넬라 Nella",
+            "views": 267,
+            "up": "2026-10-27",
+            "reason": "views<30000,daily<10000;fresh-old>10d,fresh-views<1000,fresh-daily<300",
+            "dailyViews": 21,
+            "sourceQuery": "살림템 추천 쇼츠",
+            "metricSource": "youtube-rss-feed",
+            "sourceChannelId": "UCICOQJoBAGYhUh9FRg0VNEw",
+            "sourceChannel": "살림넬라 Nella",
+            "evidence": "youtube-search-channel-rss-upload-date-rss-view-count-shorts-url"
+          },
+          {
+            "rejected": true,
+            "id": "ZKZZTuOcUoA",
+            "title": "매일 쓰는 쿠팡 살림템 2가지 #욕실템 #추천템",
+            "ch": "살림넬라 Nella",
+            "views": 1847,
+            "up": "2026-10-17",
+            "reason": "views<30000,daily<10000;fresh-old>10d,fresh-daily<300",
+            "dailyViews": 80,
+            "sourceQuery": "살림템 추천 쇼츠",
+            "metricSource": "youtube-rss-feed",
+            "sourceChannelId": "UCICOQJoBAGYhUh9FRg0VNEw",
+            "sourceChannel": "살림넬라 Nella",
             "evidence": "youtube-search-channel-rss-upload-date-rss-view-count-shorts-url"
           },
           {
@@ -945,78 +1030,33 @@
           },
           {
             "rejected": true,
-            "id": "YFZ6YekNgDc",
-            "title": "코스트코 물건 싹쓸이 해서 월 7천 남겨먹는 여자 #부업추천",
-            "ch": "우리동네사장",
-            "views": 2404,
-            "up": "2026-10-23",
-            "reason": "views<30000,daily<10000;fresh-old>10d,fresh-daily<300",
-            "dailyViews": 150,
+            "id": "0Z-z4--7P5w",
+            "title": "유튜브 쇼츠 추천 변경: 재업로드보다 내 해석을 더한 원본이 우선",
+            "ch": "어비 GPE | 유튜브 알고리즘·정책 UhBee",
+            "views": 922,
+            "up": "2026-10-06",
+            "reason": "views<30000,daily<10000;fresh-old>10d,fresh-views<1000,fresh-daily<300",
+            "dailyViews": 27,
             "sourceQuery": "한국 쇼츠 쇼핑 추천",
             "metricSource": "youtube-rss-feed",
-            "sourceChannelId": "UCN5PvV8tCLgZFwKTeod1VAw",
-            "sourceChannel": "우리동네사장",
+            "sourceChannelId": "UC_iVluVTBSlRpr4wtyVdhEQ",
+            "sourceChannel": "어비 GPE | 유튜브 알고리즘·정책 UhBee",
             "evidence": "youtube-search-channel-rss-upload-date-rss-view-count-shorts-url"
           },
           {
             "rejected": true,
-            "id": "V6TUWzJNdz0",
-            "title": "주방 수납! 버리는 공간없는 효율 끝판왕",
-            "ch": "디자인용테리어",
-            "views": 799,
-            "up": "2026-11-05",
+            "id": "6EQmXEQ8mJM",
+            "title": "청소가 이렇게 편해진다고? 😲 무선 물걸레 청소기 꿀템! #shorts",
+            "ch": "득템상회",
+            "views": 10,
+            "up": "2026-10-30",
             "reason": "views<30000,daily<10000;fresh-views<1000,fresh-daily<300",
-            "dailyViews": 266,
-            "sourceQuery": "인테리어 소품 추천 쇼츠",
-            "metricSource": "youtube-rss-feed",
-            "sourceChannelId": "UCTzn6LZrPaiA81ZAog_-DZA",
-            "sourceChannel": "디자인용테리어",
-            "evidence": "youtube-search-channel-rss-upload-date-rss-view-count-shorts-url"
-          },
-          {
-            "rejected": true,
-            "id": "vfNQKniRE8o",
-            "title": "아내가 극찬한 완벽한 주방 구조",
-            "ch": "디자인용테리어",
-            "views": 1231,
-            "up": "2026-10-27",
-            "reason": "views<30000,daily<10000;fresh-old>10d,fresh-daily<300",
-            "dailyViews": 103,
-            "sourceQuery": "인테리어 소품 추천 쇼츠",
-            "metricSource": "youtube-rss-feed",
-            "sourceChannelId": "UCTzn6LZrPaiA81ZAog_-DZA",
-            "sourceChannel": "디자인용테리어",
-            "evidence": "youtube-search-channel-rss-upload-date-rss-view-count-shorts-url"
-          },
-          {
-            "rejected": true,
-            "id": "2atZ2qWZjFY",
-            "title": "손님들 올 때마다 감탄하는 거실 인테리어",
-            "ch": "디자인용테리어",
-            "views": 1294,
-            "up": "2026-10-22",
-            "reason": "views<30000,daily<10000;fresh-old>10d,fresh-daily<300",
-            "dailyViews": 76,
-            "sourceQuery": "인테리어 소품 추천 쇼츠",
-            "metricSource": "youtube-rss-feed",
-            "sourceChannelId": "UCTzn6LZrPaiA81ZAog_-DZA",
-            "sourceChannel": "디자인용테리어",
-            "evidence": "youtube-search-channel-rss-upload-date-rss-view-count-shorts-url"
-          },
-          {
-            "rejected": true,
-            "id": "AB3bpgdvoeo",
-            "title": "답답했던 주방의 소름 돋는 대반전",
-            "ch": "디자인용테리어",
-            "views": 1517,
-            "up": "2026-10-20",
-            "reason": "views<30000,daily<10000;fresh-old>10d,fresh-daily<300",
-            "dailyViews": 80,
-            "sourceQuery": "인테리어 소품 추천 쇼츠",
-            "metricSource": "youtube-rss-feed",
-            "sourceChannelId": "UCTzn6LZrPaiA81ZAog_-DZA",
-            "sourceChannel": "디자인용테리어",
-            "evidence": "youtube-search-channel-rss-upload-date-rss-view-count-shorts-url"
+            "dailyViews": 1,
+            "sourceQuery": "살림템 추천 쇼츠",
+            "metricSource": "https://yt.chocolatemoo53.com",
+            "sourceChannelId": "UC4ZeOQgnXOzctbLZE4gW5fg",
+            "sourceChannel": "득템상회",
+            "evidence": "youtube-search-channel-rss-public-metadata"
           },
           {
             "rejected": true,
@@ -1035,62 +1075,62 @@
           },
           {
             "rejected": true,
-            "id": "UNY1XjqZvqg",
-            "title": "🫧예쁘고 센스있는 집들이 선물 추천!!🧼",
-            "ch": "임쁨임",
-            "views": 553,
+            "id": "V6TUWzJNdz0",
+            "title": "주방 수납! 버리는 공간없는 효율 끝판왕",
+            "ch": "디자인용테리어",
+            "views": 805,
             "up": "2026-11-05",
             "reason": "views<30000,daily<10000;fresh-views<1000,fresh-daily<300",
-            "dailyViews": 184,
+            "dailyViews": 201,
             "sourceQuery": "인테리어 소품 추천 쇼츠",
             "metricSource": "youtube-rss-feed",
-            "sourceChannelId": "UCSMXHb6eaO1kuURCBAzRO0g",
-            "sourceChannel": "임쁨임",
+            "sourceChannelId": "UCTzn6LZrPaiA81ZAog_-DZA",
+            "sourceChannel": "디자인용테리어",
             "evidence": "youtube-search-channel-rss-upload-date-rss-view-count-shorts-url"
           },
           {
             "rejected": true,
-            "id": "RNPHU5LI1sc",
-            "title": "튼튼하고 예쁜 수납력 좋은 유리파스타병 추천!!",
-            "ch": "임쁨임",
-            "views": 354,
-            "up": "2026-11-02",
-            "reason": "views<30000,daily<10000;fresh-views<1000,fresh-daily<300",
-            "dailyViews": 59,
-            "sourceQuery": "인테리어 소품 추천 쇼츠",
-            "metricSource": "youtube-rss-feed",
-            "sourceChannelId": "UCSMXHb6eaO1kuURCBAzRO0g",
-            "sourceChannel": "임쁨임",
-            "evidence": "youtube-search-channel-rss-upload-date-rss-view-count-shorts-url"
-          },
-          {
-            "rejected": true,
-            "id": "4vAsE-eNHA4",
-            "title": "자취10년차가 추천하는 관리 편한 주방용품 추천!!",
-            "ch": "임쁨임",
-            "views": 964,
-            "up": "2026-10-29",
-            "reason": "views<30000,daily<10000;fresh-views<1000,fresh-daily<300",
-            "dailyViews": 96,
-            "sourceQuery": "인테리어 소품 추천 쇼츠",
-            "metricSource": "youtube-rss-feed",
-            "sourceChannelId": "UCSMXHb6eaO1kuURCBAzRO0g",
-            "sourceChannel": "임쁨임",
-            "evidence": "youtube-search-channel-rss-upload-date-rss-view-count-shorts-url"
-          },
-          {
-            "rejected": true,
-            "id": "c1j3HIGlC8w",
-            "title": "코스트코 가면 이건 꼭 담아오세요!! 가성비 좋은 베이커리 추천!!",
-            "ch": "임쁨임",
-            "views": 1296,
-            "up": "2026-10-28",
+            "id": "vfNQKniRE8o",
+            "title": "아내가 극찬한 완벽한 주방 구조",
+            "ch": "디자인용테리어",
+            "views": 1233,
+            "up": "2026-10-27",
             "reason": "views<30000,daily<10000;fresh-old>10d,fresh-daily<300",
-            "dailyViews": 118,
+            "dailyViews": 95,
             "sourceQuery": "인테리어 소품 추천 쇼츠",
             "metricSource": "youtube-rss-feed",
-            "sourceChannelId": "UCSMXHb6eaO1kuURCBAzRO0g",
-            "sourceChannel": "임쁨임",
+            "sourceChannelId": "UCTzn6LZrPaiA81ZAog_-DZA",
+            "sourceChannel": "디자인용테리어",
+            "evidence": "youtube-search-channel-rss-upload-date-rss-view-count-shorts-url"
+          },
+          {
+            "rejected": true,
+            "id": "2atZ2qWZjFY",
+            "title": "손님들 올 때마다 감탄하는 거실 인테리어",
+            "ch": "디자인용테리어",
+            "views": 1296,
+            "up": "2026-10-22",
+            "reason": "views<30000,daily<10000;fresh-old>10d,fresh-daily<300",
+            "dailyViews": 72,
+            "sourceQuery": "인테리어 소품 추천 쇼츠",
+            "metricSource": "youtube-rss-feed",
+            "sourceChannelId": "UCTzn6LZrPaiA81ZAog_-DZA",
+            "sourceChannel": "디자인용테리어",
+            "evidence": "youtube-search-channel-rss-upload-date-rss-view-count-shorts-url"
+          },
+          {
+            "rejected": true,
+            "id": "AB3bpgdvoeo",
+            "title": "답답했던 주방의 소름 돋는 대반전",
+            "ch": "디자인용테리어",
+            "views": 1518,
+            "up": "2026-10-20",
+            "reason": "views<30000,daily<10000;fresh-old>10d,fresh-daily<300",
+            "dailyViews": 76,
+            "sourceQuery": "인테리어 소품 추천 쇼츠",
+            "metricSource": "youtube-rss-feed",
+            "sourceChannelId": "UCTzn6LZrPaiA81ZAog_-DZA",
+            "sourceChannel": "디자인용테리어",
             "evidence": "youtube-search-channel-rss-upload-date-rss-view-count-shorts-url"
           },
           {
@@ -1101,7 +1141,7 @@
             "views": 62,
             "up": "2026-11-03",
             "reason": "views<30000,daily<10000;fresh-views<1000,fresh-daily<300",
-            "dailyViews": 12,
+            "dailyViews": 10,
             "sourceQuery": "먹거리 추천 쇼츠",
             "metricSource": "youtube-rss-feed",
             "sourceChannelId": "UCSfdrsPDD2TkjrK2hhrEWtQ",
@@ -1116,7 +1156,7 @@
             "views": 307,
             "up": "2026-10-31",
             "reason": "views<30000,daily<10000;fresh-views<1000,fresh-daily<300",
-            "dailyViews": 38,
+            "dailyViews": 34,
             "sourceQuery": "먹거리 추천 쇼츠",
             "metricSource": "youtube-rss-feed",
             "sourceChannelId": "UCSfdrsPDD2TkjrK2hhrEWtQ",
@@ -1125,285 +1165,150 @@
           },
           {
             "rejected": true,
-            "id": "VtU3b5R3W7o",
-            "title": "왜 아무 일도 안일어 날까요? 당연히 그쪽 비제이들이 구라 쳐서 때문이다 #추천 #토크 #명언 #행복 #소통",
-            "ch": "김똥뺌",
-            "views": 1019,
-            "up": "2026-10-26",
-            "reason": "views<30000,daily<10000;fresh-old>10d,fresh-daily<300",
-            "dailyViews": 78,
-            "sourceQuery": "먹거리 추천 쇼츠",
-            "metricSource": "https://yt.chocolatemoo53.com",
-            "sourceChannelId": "UCcolydb_lTaxieVVGqc5yEg",
-            "sourceChannel": "김똥뺌",
-            "evidence": "youtube-search-channel-rss-public-metadata"
-          },
-          {
-            "rejected": true,
-            "id": "JFBg_4zS7S0",
-            "title": "맞는말만 하내 시청자들이 #추천 #쇼츠 #shorts #토크 #명언 #행복",
-            "ch": "김똥뺌",
-            "views": 3774,
-            "up": "2026-10-08",
-            "reason": "views<30000,daily<10000;fresh-old>10d,fresh-daily<300",
-            "dailyViews": 122,
-            "sourceQuery": "먹거리 추천 쇼츠",
-            "metricSource": "youtube-rss-feed",
-            "sourceChannelId": "UCcolydb_lTaxieVVGqc5yEg",
-            "sourceChannel": "김똥뺌",
-            "evidence": "youtube-search-channel-rss-upload-date-rss-view-count-shorts-url"
-          },
-          {
-            "rejected": true,
-            "id": "W_f3OJ6eD9k",
-            "title": "염병 썰 #추천 #명언 #토크 #행복",
-            "ch": "김똥뺌",
-            "views": 1017,
-            "up": "2026-10-20",
-            "reason": "views<30000,daily<10000;fresh-old>10d,fresh-daily<300",
-            "dailyViews": 54,
-            "sourceQuery": "먹거리 추천 쇼츠",
-            "metricSource": "https://yt.chocolatemoo53.com",
-            "sourceChannelId": "UCcolydb_lTaxieVVGqc5yEg",
-            "sourceChannel": "김똥뺌",
-            "evidence": "youtube-search-channel-rss-public-metadata"
-          },
-          {
-            "rejected": true,
-            "id": "O5E32RQynp4",
-            "title": "저는 게이가 아니에요 남자 싫어 합니다 그리고 여캠 안만나고요 자만추에요 저는 #추천 #토크 #명언 #행복",
-            "ch": "김똥뺌",
-            "views": 1116,
-            "up": "2026-10-19",
-            "reason": "views<30000,daily<10000;fresh-old>10d,fresh-daily<300",
-            "dailyViews": 56,
-            "sourceQuery": "먹거리 추천 쇼츠",
-            "metricSource": "https://yt.chocolatemoo53.com",
-            "sourceChannelId": "UCcolydb_lTaxieVVGqc5yEg",
-            "sourceChannel": "김똥뺌",
-            "evidence": "youtube-search-channel-rss-public-metadata"
-          },
-          {
-            "rejected": true,
-            "id": "tOvenkNMGjA",
-            "title": "한번이라도 게스트 초대 하거나 나간 사람 안봐도 된다고 #추천 #토크 #명언 #행복 #소통",
-            "ch": "김똥뺌",
-            "views": 1014,
+            "id": "EbhUGnBMw6s",
+            "title": "손만 대면 거품이 쏙! 🫧 자동 거품 손세정제 #쇼츠 #생활꿀템",
+            "ch": "오늘은 뭐사지",
+            "views": 291,
             "up": "2026-10-22",
-            "reason": "views<30000,daily<10000;fresh-old>10d,fresh-daily<300",
-            "dailyViews": 60,
-            "sourceQuery": "먹거리 추천 쇼츠",
-            "metricSource": "https://yt.chocolatemoo53.com",
-            "sourceChannelId": "UCcolydb_lTaxieVVGqc5yEg",
-            "sourceChannel": "김똥뺌",
-            "evidence": "youtube-search-channel-rss-public-metadata"
+            "reason": "views<30000,daily<10000;fresh-old>10d,fresh-views<1000,fresh-daily<300",
+            "dailyViews": 16,
+            "sourceQuery": "간식 추천 쇼츠",
+            "metricSource": "youtube-rss-feed",
+            "sourceChannelId": "UCQpyus1m4_hqci-NriCuLAQ",
+            "sourceChannel": "오늘은 뭐사지",
+            "evidence": "youtube-search-channel-rss-upload-date-rss-view-count-shorts-url"
           },
           {
             "rejected": true,
-            "id": "_0deSGkgrFk",
-            "title": "크루 만드 신분들 헛세월 보내셨네 내가 승리자 한푼도 안줌 ㅋㅋㅋ #추천 #토크 #명언 #행복",
-            "ch": "김똥뺌",
-            "views": 1010,
-            "up": "2026-10-19",
-            "reason": "views<30000,daily<10000;fresh-old>10d,fresh-daily<300",
-            "dailyViews": 51,
-            "sourceQuery": "먹거리 추천 쇼츠",
-            "metricSource": "https://yt.chocolatemoo53.com",
-            "sourceChannelId": "UCcolydb_lTaxieVVGqc5yEg",
-            "sourceChannel": "김똥뺌",
-            "evidence": "youtube-search-channel-rss-public-metadata"
+            "id": "y0JkJKgaqQc",
+            "title": "손만 대면 거품이 쏙! 🫧 자동 거품 손세정제 #쇼츠 #생활꿀템",
+            "ch": "오늘은 뭐사지",
+            "views": 22,
+            "up": "2026-10-21",
+            "reason": "views<30000,daily<10000;fresh-old>10d,fresh-views<1000,fresh-daily<300",
+            "dailyViews": 1,
+            "sourceQuery": "간식 추천 쇼츠",
+            "metricSource": "youtube-rss-feed",
+            "sourceChannelId": "UCQpyus1m4_hqci-NriCuLAQ",
+            "sourceChannel": "오늘은 뭐사지",
+            "evidence": "youtube-search-channel-rss-upload-date-rss-view-count-shorts-url"
           },
           {
             "rejected": true,
-            "id": "p2Ex-z1mat0",
-            "title": "괜찮아 신경 쓰지마 장거리싸움 내가 이겨 #추천 #토크 #명언 #행복",
-            "ch": "김똥뺌",
-            "views": 1045,
+            "id": "7Ft0jOsc7Q4",
+            "title": "예신 필수템 #shorts",
+            "ch": "쩡유 JJeong U",
+            "views": 8191,
             "up": "2026-10-18",
-            "reason": "views<30000,daily<10000;fresh-old>10d,fresh-daily<300",
-            "dailyViews": 50,
-            "sourceQuery": "먹거리 추천 쇼츠",
-            "metricSource": "https://yt.chocolatemoo53.com",
-            "sourceChannelId": "UCcolydb_lTaxieVVGqc5yEg",
-            "sourceChannel": "김똥뺌",
-            "evidence": "youtube-search-channel-rss-public-metadata"
-          },
-          {
-            "rejected": true,
-            "id": "mNgRo7bWriA",
-            "title": "저 아세요? 비제이 분들? 친하지도 않는데 거짓말 이 심하시내 #추천 #토크 #명언 #행복 #거짓말",
-            "ch": "김똥뺌",
-            "views": 1029,
-            "up": "2026-10-18",
-            "reason": "views<30000,daily<10000;fresh-old>10d,fresh-daily<300",
-            "dailyViews": 49,
-            "sourceQuery": "먹거리 추천 쇼츠",
-            "metricSource": "https://yt.chocolatemoo53.com",
-            "sourceChannelId": "UCcolydb_lTaxieVVGqc5yEg",
-            "sourceChannel": "김똥뺌",
-            "evidence": "youtube-search-channel-rss-public-metadata"
-          },
-          {
-            "rejected": true,
-            "id": "g3GzGJOIvQg",
-            "title": "풀메 안 하는 날, 이것만 바르면 피부가 맑아 보여요✨#베이스추천",
-            "ch": "민가든",
-            "views": 1436,
-            "up": "2026-10-27",
-            "reason": "views<30000,daily<10000;fresh-old>10d,fresh-daily<300",
-            "dailyViews": 120,
-            "sourceQuery": "뷰티템 추천 쇼츠",
+            "reason": "views<30000,daily<10000;fresh-old>10d",
+            "dailyViews": 372,
+            "sourceQuery": "간식 추천 쇼츠",
             "metricSource": "youtube-rss-feed",
-            "sourceChannelId": "UCr_QBNzvSm_a7mreIpTregw",
-            "sourceChannel": "민가든",
+            "sourceChannelId": "UCQ0mSWo_PxYUsxX6jKxuDsg",
+            "sourceChannel": "쩡유 JJeong U",
             "evidence": "youtube-search-channel-rss-upload-date-rss-view-count-shorts-url"
           },
           {
             "rejected": true,
-            "id": "9hqDDYX8cg0",
-            "title": "혈색 살려주는 인생립💄🎀 #립추천 #인생립",
-            "ch": "제이블릿 Jblit",
-            "views": 1792,
-            "up": "2026-10-26",
-            "reason": "views<30000,daily<10000;fresh-old>10d,fresh-daily<300",
-            "dailyViews": 138,
-            "sourceQuery": "패션 잡화 추천 쇼츠",
+            "id": "Rgc2pKh69lo",
+            "title": "픽베이크 에그타르트🥧 ✨ #Shorts #쇼츠 #에그타르트 #픽베이크 #PickBake #디저트먹방 #미니브이로그 #디저트추천 #Eggtart #Mukbang #Minivlog",
+            "ch": "티파니",
+            "views": 271,
+            "up": "2026-09-27",
+            "reason": "views<30000,daily<10000;fresh-old>10d,fresh-views<1000,fresh-daily<300",
+            "dailyViews": 6,
+            "sourceQuery": "화장품 추천 쇼츠",
             "metricSource": "youtube-rss-feed",
-            "sourceChannelId": "UCyTOyXG9CB4tMe6FIVlfsUg",
-            "sourceChannel": "제이블릿 Jblit",
+            "sourceChannelId": "UCQ4LPiRfS0aFlSmvlVhNdYA",
+            "sourceChannel": "티파니",
             "evidence": "youtube-search-channel-rss-upload-date-rss-view-count-shorts-url"
           },
           {
             "rejected": true,
-            "id": "wxCHszwKXRY",
-            "title": "성공템만 모은 택배깡📦 #택배 #택배깡",
-            "ch": "제이블릿 Jblit",
-            "views": 1952,
-            "up": "2026-10-20",
+            "id": "BWVis1uh9D4",
+            "title": "#다이소 #올리브영 택배털기📦 #택배깡 #oliveyoung #daiso #kbeauty [헮 Ryunmemo]",
+            "ch": "헮 (RyunMemo)",
+            "views": 1548,
+            "up": "2026-10-16",
             "reason": "views<30000,daily<10000;fresh-old>10d,fresh-daily<300",
-            "dailyViews": 103,
-            "sourceQuery": "패션 잡화 추천 쇼츠",
+            "dailyViews": 65,
+            "sourceQuery": "화장품 추천 쇼츠",
             "metricSource": "youtube-rss-feed",
-            "sourceChannelId": "UCyTOyXG9CB4tMe6FIVlfsUg",
-            "sourceChannel": "제이블릿 Jblit",
+            "sourceChannelId": "UCZuIXrB6Oa7MONCZxHpZLww",
+            "sourceChannel": "헮 (RyunMemo)",
             "evidence": "youtube-search-channel-rss-upload-date-rss-view-count-shorts-url"
           },
           {
             "rejected": true,
-            "id": "y30H_G01MiM",
-            "title": "2배 예뻐보이는 포도컬러 색조합 추천 #색조합 #윌슨 #테니스브랜드",
-            "ch": "제이블릿 Jblit",
-            "views": 1384,
-            "up": "2026-10-15",
+            "id": "lz8dsqTJHSg",
+            "title": "웨이팅없는 쫀독 찹쌀떡?!🌽✨️[헮 Ryunmemo] #모찌 #고디바 #한정선 #디저트 #간식",
+            "ch": "헮 (RyunMemo)",
+            "views": 1637,
+            "up": "2026-10-12",
             "reason": "views<30000,daily<10000;fresh-old>10d,fresh-daily<300",
             "dailyViews": 58,
-            "sourceQuery": "패션 잡화 추천 쇼츠",
+            "sourceQuery": "화장품 추천 쇼츠",
             "metricSource": "youtube-rss-feed",
-            "sourceChannelId": "UCyTOyXG9CB4tMe6FIVlfsUg",
-            "sourceChannel": "제이블릿 Jblit",
-            "evidence": "youtube-search-channel-rss-upload-date-rss-view-count-shorts-url"
-          },
-          {
-            "rejected": true,
-            "id": "GjmlnsrR9Sw",
-            "title": "가을부터 겨울까지 입기 좋은 기본니트 추천🌰🤎 #니트 #니트추천",
-            "ch": "제이블릿 Jblit",
-            "views": 1315,
-            "up": "2026-10-13",
-            "reason": "views<30000,daily<10000;fresh-old>10d,fresh-daily<300",
-            "dailyViews": 51,
-            "sourceQuery": "패션 잡화 추천 쇼츠",
-            "metricSource": "youtube-rss-feed",
-            "sourceChannelId": "UCyTOyXG9CB4tMe6FIVlfsUg",
-            "sourceChannel": "제이블릿 Jblit",
-            "evidence": "youtube-search-channel-rss-upload-date-rss-view-count-shorts-url"
-          },
-          {
-            "rejected": true,
-            "id": "9klFqq6L5_s",
-            "title": "품절 전에 봐야하는!! 자라신발 5가지 추천👟 #신발 #자라 #자라신발",
-            "ch": "제이블릿 Jblit",
-            "views": 2799,
-            "up": "2026-10-04",
-            "reason": "views<30000,daily<10000;fresh-old>10d,fresh-daily<300",
-            "dailyViews": 80,
-            "sourceQuery": "패션 잡화 추천 쇼츠",
-            "metricSource": "youtube-rss-feed",
-            "sourceChannelId": "UCyTOyXG9CB4tMe6FIVlfsUg",
-            "sourceChannel": "제이블릿 Jblit",
-            "evidence": "youtube-search-channel-rss-upload-date-rss-view-count-shorts-url"
-          },
-          {
-            "rejected": true,
-            "id": "ii5ECHo67cg",
-            "title": "가을 아우터 돌려입기 , 3outfits🧥🫰🏻 #광고 #지그재그 #직잭팟 #돌려입기 #페미닌코디 #아우터추천 #ootd",
-            "ch": "유청아 yucheongA",
-            "views": 3680,
-            "up": "2026-10-06",
-            "reason": "views<30000,daily<10000;fresh-old>10d,fresh-daily<300",
-            "dailyViews": 112,
-            "sourceQuery": "패션 잡화 추천 쇼츠",
-            "metricSource": "youtube-rss-feed",
-            "sourceChannelId": "UCxuMSLAu4P6JcU2i_ci9N1Q",
-            "sourceChannel": "유청아 yucheongA",
+            "sourceChannelId": "UCZuIXrB6Oa7MONCZxHpZLww",
+            "sourceChannel": "헮 (RyunMemo)",
             "evidence": "youtube-search-channel-rss-upload-date-rss-view-count-shorts-url"
           }
         ]
       }
     },
     "instagram": {
-      "accounts": [
+      "accounts": [],
+      "skipped": [],
+      "errors": [
         {
           "acct": "omuk.official",
-          "found": 0
+          "message": "HTTP 429"
         },
         {
           "acct": "todayhouse",
-          "found": 0
+          "message": "HTTP 429"
         },
         {
           "acct": "_tripgoing",
-          "found": 0
+          "message": "HTTP 429"
         },
         {
           "acct": "eyesmag",
-          "found": 0
+          "message": "HTTP 429"
         },
         {
           "acct": "yuziman__",
-          "found": 0
+          "message": "HTTP 429"
         },
         {
           "acct": "dada_salrim",
-          "found": 0
+          "message": "HTTP 429"
         },
         {
           "acct": "de_elisa_shop",
-          "found": 0
+          "message": "HTTP 429"
         },
         {
           "acct": "a_rim_z",
-          "found": 0
+          "message": "HTTP 429"
         },
         {
           "acct": "lee_mido",
-          "found": 0
+          "message": "HTTP 429"
         },
         {
           "acct": "campinghankki",
-          "found": 0
+          "message": "HTTP 429"
         },
         {
           "acct": "ggumigi",
-          "found": 0
+          "message": "HTTP 429"
         },
         {
           "acct": "salim_nam_official",
-          "found": 0
+          "message": "HTTP 429"
         }
       ],
-      "skipped": [],
-      "errors": [],
       "provider": {
         "ok": false,
         "skipped": true,
@@ -1426,7 +1331,7 @@
         },
         {
           "acct": "iero._.cider",
-          "found": 7
+          "found": 8
         },
         {
           "acct": "yunseul._.e",
@@ -1476,6 +1381,12 @@
         },
         {
           "acct": "maxi_more__",
+          "id": "DfeXFxlGJ_l",
+          "link": "https://www.threads.com/@maxi_more__/post/DfeXFxlGJ_l",
+          "reason": "public-page-without-views"
+        },
+        {
+          "acct": "maxi_more__",
           "id": "DfbGwn2Cchw",
           "link": "https://www.threads.com/@maxi_more__/post/DfbGwn2Cchw",
           "reason": "public-page-without-views"
@@ -1487,87 +1398,63 @@
           "reason": "public-page-without-views"
         },
         {
-          "acct": "maxi_more__",
-          "id": "DfUPySDCQPF",
-          "link": "https://www.threads.com/@maxi_more__/post/DfUPySDCQPF",
+          "acct": "orion_on82",
+          "id": "Dfec98IEYOk",
+          "link": "https://www.threads.com/@orion_on82/post/Dfec98IEYOk",
           "reason": "public-page-without-views"
         },
         {
           "acct": "orion_on82",
-          "id": "DfcQ2rGEo9P",
-          "link": "https://www.threads.com/@orion_on82/post/DfcQ2rGEo9P",
+          "id": "DfedDTREWf7",
+          "link": "https://www.threads.com/@orion_on82/post/DfedDTREWf7",
           "reason": "public-page-without-views"
         },
         {
           "acct": "orion_on82",
-          "id": "DfcQ7w0khyb",
-          "link": "https://www.threads.com/@orion_on82/post/DfcQ7w0khyb",
+          "id": "DfeSlmkEfL0",
+          "link": "https://www.threads.com/@orion_on82/post/DfeSlmkEfL0",
           "reason": "public-page-without-views"
         },
         {
           "acct": "orion_on82",
-          "id": "DfYyWnCkTja",
-          "link": "https://www.threads.com/@orion_on82/post/DfYyWnCkTja",
+          "id": "DfeSse-kVKE",
+          "link": "https://www.threads.com/@orion_on82/post/DfeSse-kVKE",
           "reason": "public-page-without-views"
         },
         {
           "acct": "orion_on82",
-          "id": "DfYybBOkbX4",
-          "link": "https://www.threads.com/@orion_on82/post/DfYybBOkbX4",
+          "id": "Dfd4t0dERY8",
+          "link": "https://www.threads.com/@orion_on82/post/Dfd4t0dERY8",
           "reason": "public-page-without-views"
         },
         {
           "acct": "orion_on82",
-          "id": "DfYODwPkucz",
-          "link": "https://www.threads.com/@orion_on82/post/DfYODwPkucz",
+          "id": "Dfd4yJrkVIw",
+          "link": "https://www.threads.com/@orion_on82/post/Dfd4yJrkVIw",
           "reason": "public-page-without-views"
         },
         {
           "acct": "orion_on82",
-          "id": "DfYOIaEknQ4",
-          "link": "https://www.threads.com/@orion_on82/post/DfYOIaEknQ4",
+          "id": "Dfdec49ku-D",
+          "link": "https://www.threads.com/@orion_on82/post/Dfdec49ku-D",
           "reason": "public-page-without-views"
         },
         {
           "acct": "orion_on82",
-          "id": "DfWnElSGVf-",
-          "link": "https://www.threads.com/@orion_on82/post/DfWnElSGVf-",
-          "reason": "public-page-without-views"
-        },
-        {
-          "acct": "orion_on82",
-          "id": "DfWnKjYmZS1",
-          "link": "https://www.threads.com/@orion_on82/post/DfWnKjYmZS1",
+          "id": "Dfdeg-UkiEr",
+          "link": "https://www.threads.com/@orion_on82/post/Dfdeg-UkiEr",
           "reason": "public-page-without-views"
         },
         {
           "acct": "iero._.cider",
-          "id": "DfZFXMkEwOF",
-          "link": "https://www.threads.com/@iero._.cider/post/DfZFXMkEwOF",
+          "id": "DffFuiME6nA",
+          "link": "https://www.threads.com/@iero._.cider/post/DffFuiME6nA",
           "reason": "public-page-without-views"
         },
         {
           "acct": "iero._.cider",
-          "id": "DfXdZsSE46e",
-          "link": "https://www.threads.com/@iero._.cider/post/DfXdZsSE46e",
-          "reason": "public-page-without-views"
-        },
-        {
-          "acct": "iero._.cider",
-          "id": "DfXdhMqE4Zd",
-          "link": "https://www.threads.com/@iero._.cider/post/DfXdhMqE4Zd",
-          "reason": "public-page-without-views"
-        },
-        {
-          "acct": "iero._.cider",
-          "id": "DfPp_nDk3zF",
-          "link": "https://www.threads.com/@iero._.cider/post/DfPp_nDk3zF",
-          "reason": "public-page-without-views"
-        },
-        {
-          "acct": "iero._.cider",
-          "id": "DfPqFT4EzFp",
-          "link": "https://www.threads.com/@iero._.cider/post/DfPqFT4EzFp",
+          "id": "DffF0nFkzcZ",
+          "link": "https://www.threads.com/@iero._.cider/post/DffF0nFkzcZ",
           "reason": "public-page-without-views"
         },
         {
@@ -1580,6 +1467,30 @@
           "acct": "iero._.cider",
           "id": "DfJAqf7E5bM",
           "link": "https://www.threads.com/@iero._.cider/post/DfJAqf7E5bM",
+          "reason": "public-page-without-views"
+        },
+        {
+          "acct": "iero._.cider",
+          "id": "De-__1LE9pM",
+          "link": "https://www.threads.com/@iero._.cider/post/De-__1LE9pM",
+          "reason": "public-page-without-views"
+        },
+        {
+          "acct": "iero._.cider",
+          "id": "De_ANa0k-nj",
+          "link": "https://www.threads.com/@iero._.cider/post/De_ANa0k-nj",
+          "reason": "public-page-without-views"
+        },
+        {
+          "acct": "iero._.cider",
+          "id": "De--hR9k2ca",
+          "link": "https://www.threads.com/@iero._.cider/post/De--hR9k2ca",
+          "reason": "public-page-without-views"
+        },
+        {
+          "acct": "iero._.cider",
+          "id": "De--kOHE3A8",
+          "link": "https://www.threads.com/@iero._.cider/post/De--kOHE3A8",
           "reason": "public-page-without-views"
         },
         {
@@ -1872,28 +1783,28 @@
         "reason": "missing THREADS_DATA_API_KEY or endpoint"
       }
     },
-    "finishedAt": "2026-11-07T21:46:00.551Z",
+    "finishedAt": "2026-11-08T21:59:49.455Z",
     "added": {
-      "youtube": 14,
+      "youtube": 24,
       "instagram": 0,
       "threads": 0
     },
     "metricSnapshots": {
-      "sampledAt": "2026-11-07T21:46:00.078Z",
+      "sampledAt": "2026-11-08T21:59:49.030Z",
       "tracked": {
-        "youtube": 2225,
+        "youtube": 2237,
         "instagram": 1317,
         "threads": 215
       },
       "velocityReady": {
-        "youtube": 0,
+        "youtube": 1,
         "instagram": 0,
         "threads": 0
       }
     },
-    "version": "2026-11-07T21:46:00.551Z:a28242230196",
+    "version": "2026-11-08T21:59:49.455Z:99fd0644d20b",
     "after": {
-      "youtube": 2225,
+      "youtube": 2237,
       "threads": 215,
       "instagram": 1317
     }
