@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-10T23:15:48.469Z",
+  "generatedAt": "2026-11-12T00:37:59.688Z",
   "note": "Instagram/Threads public no-login candidates without reliable engagement metrics. Not merged into ranking data.",
   "instagram": [],
   "threads": [
@@ -18,6 +18,12 @@
     },
     {
       "acct": "maxi_more__",
+      "id": "DfmKWV6jjLw",
+      "link": "https://www.threads.com/@maxi_more__/post/DfmKWV6jjLw",
+      "reason": "public-page-without-views"
+    },
+    {
+      "acct": "maxi_more__",
       "id": "DfjpD1ODicY",
       "link": "https://www.threads.com/@maxi_more__/post/DfjpD1ODicY",
       "reason": "public-page-without-views"
@@ -26,12 +32,6 @@
       "acct": "maxi_more__",
       "id": "DfeXFxlGJ_l",
       "link": "https://www.threads.com/@maxi_more__/post/DfeXFxlGJ_l",
-      "reason": "public-page-without-views"
-    },
-    {
-      "acct": "maxi_more__",
-      "id": "DfbGwn2Cchw",
-      "link": "https://www.threads.com/@maxi_more__/post/DfbGwn2Cchw",
       "reason": "public-page-without-views"
     },
     {
