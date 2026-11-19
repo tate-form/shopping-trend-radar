@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-18T00:56:15.730Z",
+  "generatedAt": "2026-11-19T00:19:35.001Z",
   "note": "Instagram/Threads public no-login candidates without reliable engagement metrics. Not merged into ranking data.",
   "instagram": [],
   "threads": [
@@ -18,6 +18,18 @@
     },
     {
       "acct": "maxi_more__",
+      "id": "Df36AzBE678",
+      "link": "https://www.threads.com/@maxi_more__/post/Df36AzBE678",
+      "reason": "public-page-without-views"
+    },
+    {
+      "acct": "maxi_more__",
+      "id": "Df36CfmE6fZ",
+      "link": "https://www.threads.com/@maxi_more__/post/Df36CfmE6fZ",
+      "reason": "public-page-without-views"
+    },
+    {
+      "acct": "maxi_more__",
       "id": "Df1rLBGjr7m",
       "link": "https://www.threads.com/@maxi_more__/post/Df1rLBGjr7m",
       "reason": "public-page-without-views"
@@ -29,9 +41,15 @@
       "reason": "public-page-without-views"
     },
     {
-      "acct": "maxi_more__",
-      "id": "DfrMENGkwnp",
-      "link": "https://www.threads.com/@maxi_more__/post/DfrMENGkwnp",
+      "acct": "orion_on82",
+      "id": "Df4eq8LEjkO",
+      "link": "https://www.threads.com/@orion_on82/post/Df4eq8LEjkO",
+      "reason": "public-page-without-views"
+    },
+    {
+      "acct": "orion_on82",
+      "id": "Df4ewSIkjOD",
+      "link": "https://www.threads.com/@orion_on82/post/Df4ewSIkjOD",
       "reason": "public-page-without-views"
     },
     {
@@ -68,18 +86,6 @@
       "acct": "orion_on82",
       "id": "Df063aukbHf",
       "link": "https://www.threads.com/@orion_on82/post/Df063aukbHf",
-      "reason": "public-page-without-views"
-    },
-    {
-      "acct": "orion_on82",
-      "id": "Df0gJJqEUdb",
-      "link": "https://www.threads.com/@orion_on82/post/Df0gJJqEUdb",
-      "reason": "public-page-without-views"
-    },
-    {
-      "acct": "orion_on82",
-      "id": "Df0gPR2EaiQ",
-      "link": "https://www.threads.com/@orion_on82/post/Df0gPR2EaiQ",
       "reason": "public-page-without-views"
     },
     {
